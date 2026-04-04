@@ -1,0 +1,364 @@
+{
+  "title": "Constitution of Panem",
+  "subtitle": "Issued Under the Authority of the Capitol",
+  "motto": "For the Preservation of Order, Unity, and Prosperity",
+  "summary": "The supreme governing framework of Panem, establishing the authority of the Capitol, the structure of the state, the legislative system, national security institutions, and the Foundational Authority of Panem.",
+  "preamble": [
+    {
+      "heading": "Preamble",
+      "text": "We, the sovereign authority of the Capitol, in order to ensure absolute stability, maintain national unity, safeguard prosperity, and preserve the enduring strength of Panem, do hereby establish this Constitution. Recognising the necessity of order over chaos, obedience over disorder, and unity over division, this Constitution defines the structure, authority, and governance of the nation of Panem. All power flows from the Capitol. All loyalty is owed to the Capitol."
+    }
+  ],
+  "articles": [
+    {
+      "id": "article-1",
+      "title": "Article I – The State",
+      "summary": "Defines the nature of Panem as a unified state under Capitol supremacy.",
+      "sections": [
+        {
+          "heading": "Section 1 – Sovereignty",
+          "text": "Panem is a unified and indivisible state under the absolute authority of the Capitol."
+        },
+        {
+          "heading": "Section 2 – National Structure",
+          "text": "Panem shall consist of: The Capitol (central governing authority); The Districts (administrative and production regions)."
+        },
+        {
+          "heading": "Section 3 – Supremacy Clause",
+          "text": "All authority, law, and governance originate from the Capitol and override any District-level rule or custom."
+        }
+      ]
+    },
+    {
+      "id": "article-2",
+      "title": "Article II – The Capitol Authority",
+      "summary": "Establishes the President of Panem and the executive authority of the Capitol.",
+      "sections": [
+        {
+          "heading": "Section 1 – Supreme Leadership",
+          "text": "The Capitol shall be governed by a President of Panem, who holds ultimate executive authority."
+        },
+        {
+          "heading": "Section 2 – Powers of the President",
+          "text": "The President shall have the authority to: Enact and enforce national law; Command all Peacekeeper forces; Appoint and dismiss officials; Regulate District operations; Declare emergency measures; Authorise national events, including the Hunger Games."
+        },
+        {
+          "heading": "Section 3 – Advisory Council",
+          "text": "The President may appoint a Council of Advisors to assist in governance. Such a council holds no independent authority."
+        }
+      ]
+    },
+    {
+      "id": "article-3",
+      "title": "Article III – The Legislature of Panem",
+      "summary": "Creates the House of Representatives of Panem as the single legislative body operating under Capitol control.",
+      "sections": [
+        {
+          "heading": "Section 1 – Establishment",
+          "text": "Panem shall maintain a single national legislative body known as the House of Representatives of Panem."
+        },
+        {
+          "heading": "Section 2 – Structure",
+          "text": "The House of Representatives shall consist of members appointed, approved, or otherwise authorised by the Capitol. Representation may be drawn from the Capitol and the Districts as determined by the President. Membership, terms, and composition shall be defined exclusively by Capitol authority."
+        },
+        {
+          "heading": "Section 3 – Function",
+          "text": "The House of Representatives shall: Review and formalise legislative measures; Provide administrative governance support; Facilitate controlled representation of District interests; Uphold and reinforce Capitol policy."
+        },
+        {
+          "heading": "Section 4 – Limitation of Authority",
+          "text": "The House of Representatives shall not possess independent legislative sovereignty, shall operate strictly under the authority of the President, and may not oppose, delay, or obstruct Capitol directives."
+        },
+        {
+          "heading": "Section 5 – Absence of a Senate",
+          "text": "No secondary legislative chamber shall exist within Panem. The creation of a Senate or any equivalent deliberative body is expressly prohibited as incompatible with the unity, efficiency, and authority of the Capitol. All legislative authority remains centralised within the Capitol and is executed through the President with administrative support from the House of Representatives."
+        }
+      ]
+    },
+    {
+      "id": "article-4",
+      "title": "Article IV – The Districts",
+      "summary": "Defines the subordinate status, governance, and obligations of the Districts.",
+      "sections": [
+        {
+          "heading": "Section 1 – Status of Districts",
+          "text": "Districts are subordinate administrative regions tasked with production, labour, and resource provision."
+        },
+        {
+          "heading": "Section 2 – Governance",
+          "text": "Each District shall be overseen by: A Capitol-appointed Governor; Enforced by Peacekeeper Command."
+        },
+        {
+          "heading": "Section 3 – Obligations",
+          "text": "Districts must: Fulfil production quotas; Maintain order and compliance; Provide tributes as required by law. Failure to comply shall result in enforcement action."
+        }
+      ]
+    },
+    {
+      "id": "article-5",
+      "title": "Article V – Law and Order",
+      "summary": "Sets out the legal authority of the Capitol and the role of Peacekeepers and judicial process.",
+      "sections": [
+        {
+          "heading": "Section 1 – Legal Authority",
+          "text": "All laws are enacted by the Capitol and enforced uniformly across Panem."
+        },
+        {
+          "heading": "Section 2 – Peacekeepers",
+          "text": "The Peacekeepers serve as the primary enforcement body of Panem and shall: Maintain public order; Enforce Capitol law; Suppress rebellion and dissent."
+        },
+        {
+          "heading": "Section 3 – Judicial Process",
+          "text": "Justice shall be administered in accordance with Capitol law. Due process is defined and controlled by Capitol authority."
+        }
+      ]
+    },
+    {
+      "id": "article-6",
+      "title": "Article VI – The Hunger Games",
+      "summary": "Defines the purpose, administration, and frequency of the Hunger Games.",
+      "sections": [
+        {
+          "heading": "Section 1 – Purpose",
+          "text": "The Hunger Games shall serve as: A reminder of the consequences of rebellion; A demonstration of Capitol authority; A unifying national spectacle."
+        },
+        {
+          "heading": "Section 2 – Tribute Selection",
+          "text": "Each District shall provide two tributes in accordance with Capitol law."
+        },
+        {
+          "heading": "Section 3 – Administration",
+          "text": "The Capitol shall oversee: Arena design; Game rules; Broadcast and narrative control."
+        },
+        {
+          "heading": "Section 4 – Frequency of the Games",
+          "text": "The Hunger Games shall be conducted on a recurring basis, occurring once every three months as determined by Capitol authority. The timing, structure, and environmental conditions of each iteration, including any changes to arena design or map configuration, shall be determined jointly by the Head Gamemaker and the President of Panem. The First and Tenth Hunger Games shall be held within the Capitol. All subsequent Games shall be conducted outside the Capitol in designated arenas as authorised by the Capitol."
+        }
+      ]
+    },
+    {
+      "id": "article-7",
+      "title": "Article VII – Rights and Duties of Citizens",
+      "summary": "Defines the rights granted to Capitol and District citizens and the duties owed by all citizens.",
+      "sections": [
+        {
+          "heading": "Section 1 – Capitol Citizens",
+          "text": "Citizens of the Capitol are entitled to: Protection under Capitol authority; Access to resources and services; Participation in Capitol life."
+        },
+        {
+          "heading": "Section 2 – District Citizens",
+          "text": "District inhabitants are granted: Protection in exchange for obedience; The right to work and contribute."
+        },
+        {
+          "heading": "Section 3 – Duties",
+          "text": "All citizens must: Obey Capitol law; Demonstrate loyalty; Refrain from dissent or rebellion."
+        }
+      ]
+    },
+    {
+      "id": "article-8",
+      "title": "Article VIII – Security and Stability",
+      "summary": "Provides powers for surveillance, emergency action, and protection of national stability.",
+      "sections": [
+        {
+          "heading": "Section 1 – National Security",
+          "text": "Any act deemed a threat to Panem shall be addressed immediately and decisively."
+        },
+        {
+          "heading": "Section 2 – Surveillance",
+          "text": "The Capitol reserves the right to monitor communications, movement, and activity to preserve order."
+        },
+        {
+          "heading": "Section 3 – Emergency Powers",
+          "text": "In times of unrest, the President may: Suspend standard procedures; Increase enforcement measures; Deploy additional Peacekeeper forces."
+        }
+      ]
+    },
+    {
+      "id": "article-9",
+      "title": "Article IX – Propaganda and Information",
+      "summary": "Establishes Capitol control over information, media, and public narrative.",
+      "sections": [
+        {
+          "heading": "Section 1 – Information Control",
+          "text": "All public information is subject to Capitol regulation."
+        },
+        {
+          "heading": "Section 2 – Broadcasting Authority",
+          "text": "The Capitol controls all media, messaging, and national broadcasts."
+        },
+        {
+          "heading": "Section 3 – Narrative Integrity",
+          "text": "False information, dissenting narratives, or unauthorised communication is prohibited."
+        }
+      ]
+    },
+    {
+      "id": "article-10",
+      "title": "Article X – Amendments",
+      "summary": "Sets out the power and effect of constitutional amendments.",
+      "sections": [
+        {
+          "heading": "Section 1 – Authority to Amend",
+          "text": "Only the President of Panem may amend this Constitution."
+        },
+        {
+          "heading": "Section 2 – Ratification",
+          "text": "Amendments take immediate effect upon Capitol declaration."
+        }
+      ]
+    },
+    {
+      "id": "article-11",
+      "title": "Article XI – Final Authority",
+      "summary": "Affirms the Constitution as the supreme governing framework of Panem, subject to Foundational Authority.",
+      "sections": [
+        {
+          "heading": "Final Authority",
+          "text": "This Constitution represents the supreme governing framework of Panem, operating under the authority of the Capitol and subject to the Foundational Authority established in [[xref:constitution:article-14|Article XIV]]. Any challenge to its legitimacy shall be considered an act of rebellion."
+        }
+      ]
+    },
+    {
+      "id": "article-12",
+      "title": "Article XII – Legislative Process and House Structure",
+      "summary": "Defines the legislative process of Panem and the controlled structure of the House of Representatives.",
+      "sections": [
+        {
+          "heading": "Part I – Legislative Process of Panem – Section 1 – Authority to Introduce Legislation",
+          "text": "Legislative proposals (“Bills”) may only be introduced by: The President of Panem; The Advisory Council; Authorised Capitol Officials; The Speaker of the House (with Capitol approval). District Delegates may propose recommendations, but such proposals must be approved by Capitol authority before formal introduction."
+        },
+        {
+          "heading": "Part I – Legislative Process of Panem – Section 2 – Classification of Bills",
+          "text": "Bills shall be classified as: Capitol Directives (mandatory, immediate enforcement); Administrative Acts (governance and operational laws); District Regulations (localised enforcement measures)."
+        },
+        {
+          "heading": "Part I – Legislative Process of Panem – Section 3 – House Review Process",
+          "text": "Upon introduction, a Bill shall proceed through the House of Representatives: First Reading – Bill is formally presented; No debate required. Capitol Review Stage – Capitol Controllers assess alignment with national policy; Non-compliant Bills may be amended or removed. Second Reading – Structured debate permitted under supervision; Delegates may speak only when recognised. Controlled Vote – Voting occurs under Capitol oversight; Outcomes are advisory unless otherwise directed."
+        },
+        {
+          "heading": "Part I – Legislative Process of Panem – Section 4 – Presidential Assent",
+          "text": "Following House review: The Bill is submitted to the President. The President may: Approve the Bill and it becomes law; Amend the Bill and return it for formalisation; Reject the Bill and dismiss it without appeal."
+        },
+        {
+          "heading": "Part I – Legislative Process of Panem – Section 5 – Enactment of Law",
+          "text": "Upon Presidential approval: The Bill becomes binding law across Panem; Immediate enforcement may be authorised; Peacekeepers and Governors are responsible for implementation."
+        },
+        {
+          "heading": "Part I – Legislative Process of Panem – Section 6 – Emergency Legislation",
+          "text": "The President may bypass the House entirely and enact Capitol Directives with immediate effect. Such directives: Require no debate or vote; Override all existing laws if necessary. Emergency powers shall not limit or restrict Foundational Authority under [[xref:constitution:article-14|Article XIV]]."
+        },
+        {
+          "heading": "Part II – Structure of the House of Representatives – Section 7 – The Speaker of the House",
+          "text": "The Speaker of the House shall serve as the presiding authority within the House of Representatives. Responsibilities: Maintain order and procedural control; Approve speaking rights and debates; Present legislation for review; Enforce Capitol-aligned conduct. Authority: Acts under direct instruction of the Capitol; May remove or silence members for non-compliance; Has no authority independent of Capitol direction."
+        },
+        {
+          "heading": "Part II – Structure of the House of Representatives – Section 8 – Capitol Controllers",
+          "text": "Capitol Controllers represent the direct authority of the Capitol within the House. Responsibilities: Oversee all legislative activity; Approve, amend, or reject Bills during review; Ensure absolute alignment with Capitol interests; Monitor loyalty and conduct of all members. Authority: May override House procedure at any time; May suspend votes, debates, or members; Hold superior authority over all House positions."
+        },
+        {
+          "heading": "Part II – Structure of the House of Representatives – Section 9 – District Delegates",
+          "text": "District Delegates serve as controlled representatives of the Districts. Responsibilities: Present District concerns within approved limits; Participate in debates when authorised; Vote on legislative matters as directed. Limitations: Must demonstrate loyalty to the Capitol at all times; May not introduce independent legislation; May be removed or replaced at Capitol discretion."
+        },
+        {
+          "heading": "Part II – Structure of the House of Representatives – Section 10 – Conduct Within the House",
+          "text": "All members of the House shall: Adhere to strict procedural discipline; Speak only when authorised; Maintain loyalty to the Capitol. Prohibited actions include: Disruption of proceedings; Opposition to Capitol directives; Promotion of dissent or rebellion. Violations may result in: Immediate removal from the House; Detention by Peacekeepers; Further disciplinary action."
+        },
+        {
+          "heading": "Part II – Structure of the House of Representatives – Section 11 – Dissolution and Control",
+          "text": "The House of Representatives exists at the discretion of the Capitol. The President may: Dissolve the House at any time; Reconstitute its membership; Suspend legislative functions entirely."
+        },
+        {
+          "heading": "Closing Statement of Article XII",
+          "text": "The House of Representatives exists not as a body of independent power, but as an instrument of order, structure, and controlled representation under the absolute authority of the Capitol."
+        }
+      ]
+    },
+    {
+      "id": "article-13",
+      "title": "Article XIII – National Security and Armed Forces",
+      "summary": "Establishes the armed and internal security institutions of Panem and their hierarchy.",
+      "sections": [
+        {
+          "heading": "Section 1 – Establishment of National Forces",
+          "text": "The Capitol shall maintain national security and defence through the following institutions: Panem Armed Forces (PAF); Peacekeeper Corps; State Security of Panem. These bodies operate under the authority of the Capitol and ultimately under the Foundational Authority established in [[xref:constitution:article-14|Article XIV]]."
+        },
+        {
+          "heading": "Section 2 – Panem Armed Forces (PAF)",
+          "text": "The Panem Armed Forces shall serve as the primary military force of Panem. Functions: Defence of the Capitol and national territory; Suppression of large-scale rebellion or external threat; Strategic military operations. Authority: Operates under command of the President; May be deployed domestically or across Districts."
+        },
+        {
+          "heading": "Section 3 – Peacekeeper Corps",
+          "text": "The Peacekeepers shall serve as the primary visible law enforcement body across Panem. Functions: Maintain order within Districts; Enforce Capitol law; Support security operations. Authority: Operate under Capitol command; May be supported or overridden by State Security."
+        },
+        {
+          "heading": "Section 4 – State Security of Panem",
+          "text": "The State Security of Panem shall operate as the central internal intelligence and enforcement authority. Functions: Intelligence gathering and surveillance; Detection and neutralisation of threats; Enforcement of high-level directives; Internal investigations and loyalty enforcement. Authority: Operates with priority over all other security bodies in matters of internal stability; May act without public disclosure; Enforces Founders Directive Protocol (FDP-01). State Security shall act as the final internal guarantor of order within Panem."
+        },
+        {
+          "heading": "Section 5 – Specialised Units and Directorates",
+          "text": "State Security may establish specialised divisions and directorates, including but not limited to: Intelligence and surveillance divisions; Counter-insurgency units; Internal investigation bodies; Classified operational units. Such units may operate with restricted or undisclosed status where required."
+        },
+        {
+          "heading": "Section 6 – Command Hierarchy",
+          "text": "All national security bodies shall operate under the following hierarchy: Founders of Panem; President of Panem; State Security High Command / Military High Command; Peacekeeper Command; Operational Units."
+        },
+        {
+          "heading": "Section 7 – Override Authority",
+          "text": "All national security bodies remain subject to [[xref:constitution:article-14|Article XIV – Foundational Authority of Panem]] and any directives issued under the Founders Directive Protocol (FDP-01). No security body may act in contradiction to Foundational Authority."
+        },
+        {
+          "heading": "Section 8 – Secrecy and Operational Control",
+          "text": "The Capitol may: Classify operations; Restrict information; Deny the existence of specific units where necessary for national stability."
+        }
+      ]
+    },
+    {
+      "id": "article-14",
+      "title": "Article XIV – Foundational Authority of Panem",
+      "summary": "Establishes the Founders of Panem as the supreme and originating authority of the state.",
+      "sections": [
+        {
+          "heading": "Section 1 – Establishment of Foundational Authority",
+          "text": "The supreme and originating authority of Panem shall reside in the Founders of Panem, from whom all constitutional legitimacy, governance structure, and state authority are derived. The Founders stand as the ultimate guarantors of the Constitution and the continued existence, stability, and intended order of Panem."
+        },
+        {
+          "heading": "Section 2 – Recognition of the Founders",
+          "text": "The individuals recognised as the Founders of Panem are: Harleen_Windsor; dave000989. No additional individuals may be recognised as Founders unless formally declared under Founders’ Authority. This recognition forms part of the permanent constitutional order described in [[xref:constitution:article-14:section-6|Section 6]]."
+        },
+        {
+          "heading": "Section 3 – Supremacy of Foundational Authority",
+          "text": "The authority of the Founders: Supersedes all Articles within this Constitution; Overrides all actions of the President, the House of Representatives, and any Capitol body; Shall not be limited, challenged, or subjected to review. All governance within Panem operates under the implicit authority of the Founders, as preserved by [[xref:constitution:article-14:section-9|Section 9]]."
+        },
+        {
+          "heading": "Section 4 – Constitutional Override Powers",
+          "text": "The Founders retain absolute authority to: Interpret any provision of this Constitution; Suspend, amend, or nullify any law, directive, or constitutional clause; Override any decision made by the President or Capitol authority; Intervene in any matter deemed necessary for the preservation of Panem. Such actions: Take immediate effect; Require no approval or consultation; Are binding across all levels of governance. This override power reinforces the supremacy established in [[xref:constitution:article-14:section-3|Section 3]]."
+        },
+        {
+          "heading": "Section 5 – Emergency Intervention Authority",
+          "text": "In circumstances where emergency powers are exercised, the Founders may: Review any emergency legislation or Capitol Directive; Suspend or revoke such measures immediately; Replace such measures with alternative directives. This authority exists to prevent: Abuse of power; Corruption within governance; Destabilisation of Panem. This emergency intervention shall be read together with [[xref:constitution:article-14:section-4|Section 4]]."
+        },
+        {
+          "heading": "Section 6 – Permanence and Continuity",
+          "text": "The authority of the Founders is: Permanent; Continuous; Not subject to expiration, succession limitation, or external control. The Founders may determine provisions for succession, delegation, or continuation of authority at their sole discretion."
+        },
+        {
+          "heading": "Section 7 – Immunity and Non-Accountability",
+          "text": "The Founders: Shall not be subject to any law, tribunal, or disciplinary mechanism within Panem; Are immune from all forms of removal, challenge, or sanction; Cannot be overridden by any authority."
+        },
+        {
+          "heading": "Section 8 – Preservation of the State",
+          "text": "All institutions of Panem exist to uphold the vision and authority of the Founders. Any act, movement, or directive that seeks to undermine the Founders shall be considered: An act of rebellion; A threat to national stability. Such acts shall be addressed with the highest level of enforcement."
+        },
+        {
+          "heading": "Section 9 – Final Authority Clause",
+          "text": "The Founders represent the highest authority in Panem. Their decisions are: Final; Absolute; Non-contestable. No provision within this Constitution may be interpreted in a manner that limits or contradicts Foundational Authority. This final authority governs the constitutional framework referenced in [[xref:constitution:article-11|Article XI]]."
+        }
+      ]
+    }
+  ],
+  "closingDeclaration": {
+    "heading": "Closing Declaration of Authority",
+    "text": "The Founders define Panem. The Capitol governs Panem. The Districts serve Panem. Panem Today, Panem Tomorrow, Panem Forever."
+  }
+}

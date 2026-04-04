@@ -1,0 +1,331 @@
+[
+  {
+    "id": "CA-001",
+    "title": "Capitol Civic Code for District Administration and Citizen Conduct",
+    "issuedBy": "Capitol Legislature",
+    "authority": "Constitution of Panem",
+    "jurisdiction": "Panem",
+    "version": "1.0",
+    "stageDate": "2026-01-07",
+    "summary": "A Capitol Act establishing the civic code applicable to District citizens, including governance, conduct, movement, Peacekeeper authority, production responsibilities, information controls, emergency measures, and compliance expectations.",
+    "text": "A Capitol Act establishing the civic code applicable to District citizens, including governance, conduct, movement, Peacekeeper authority, production responsibilities, information controls, emergency measures, and compliance expectations.",
+    "history": [
+      {
+        "version": "1.0",
+        "date": "2026-01-07",
+        "note": "Inditial enactment and issue oif the Capitol Civic Code"
+      }
+    ],
+    "sections": [
+      {
+        "id": "foreword",
+        "heading": "Foreword to District Citizens",
+        "text": "The Capitol recognises the essential role played by every District in sustaining the prosperity, security, and continuity of Panem. This Civic Code is issued to provide clarity, consistency, and reassurance. Its purpose is to ensure that citizens understand their responsibilities, their protections, and the expectations placed upon them as contributors to a stable society. Compliance with this Code supports community safety, reliable access to resources, orderly civic life, and protection of families and livelihoods."
+      },
+      {
+        "id": "section-i",
+        "heading": "Section I — Governance & Coordination",
+        "text": "Panem is administered through coordinated governance to ensure fairness and stability. The Capitol provides central direction to maintain uniform standards across all Districts. District authorities act in accordance with Capitol guidance to uphold public order and welfare. This structure exists to prevent disorder, inequality, and uncertainty."
+      },
+      {
+        "id": "section-ii",
+        "heading": "Section II — Citizenship & Civic Responsibility",
+        "text": "District citizens are recognised members of Panem’s civic body. Rights and privileges are linked to cooperation, conduct, and contribution. Citizens are expected to comply with lawful instructions issued by authorised officials, conduct themselves in a respectful and orderly manner, participate in required civic activities, and support community stability. Failure to meet civic responsibilities may result in review or corrective action."
+      },
+      {
+        "id": "section-iii",
+        "heading": "Section III — Public Conduct & Communication",
+        "text": "Responsible communication promotes harmony and safety. The spread of unverified information may cause disruption and is discouraged. Public behaviour that undermines order may require official intervention. Public gatherings should be registered to ensure safety and coordination. Unauthorised assemblies may be dispersed to prevent risk or disorder."
+      },
+      {
+        "id": "section-iv",
+        "heading": "Section IV — Movement & Travel",
+        "text": "Movement within District boundaries is permitted subject to local regulations. Travel between Districts requires appropriate authorisation. Temporary movement restrictions may be applied for safety, logistics, or emergency purposes. These measures ensure efficient distribution of resources and public protection."
+      },
+      {
+        "id": "section-v",
+        "heading": "Section V — Peacekeepers",
+        "text": "Peacekeepers are assigned to Districts to maintain public safety, respond to emergencies, enforce regulations fairly, and protect civic infrastructure. Citizens are advised to follow Peacekeeper instructions promptly and raise concerns through approved administrative channels. Peacekeeper presence is intended to reassure and safeguard the community."
+      },
+      {
+        "id": "section-vi",
+        "heading": "Section VI — Work, Production & Resources",
+        "text": "Each District contributes to Panem through assigned production roles. Meeting production targets supports continued access to food, housing, and services. Temporary shortfalls may result in assessment, guidance, or reassignment where necessary. Consistent productivity ensures collective stability."
+      },
+      {
+        "id": "section-vii",
+        "heading": "Section VII — Information & Education",
+        "text": "Approved educational materials are provided to ensure accuracy and unity. Official broadcasts supply important updates and guidance. Unauthorised materials may cause confusion and should be avoided. Citizens are encouraged to rely on verified information issued through official channels."
+      },
+      {
+        "id": "section-viii",
+        "heading": "Section VIII — Civic Events & National Observances",
+        "text": "Certain national events are held to commemorate history and reinforce unity. District participation is mandatory and reflects civic responsibility. Instructions regarding attendance will be communicated in advance. Participation demonstrates commitment to Panem’s shared future."
+      },
+      {
+        "id": "section-ix",
+        "heading": "Section IX — Emergency Measures",
+        "text": "In times of emergency or unrest, temporary restrictions may be introduced for public safety. Movement, communication, or work patterns may be adjusted. Additional security may be deployed as required. Such measures are precautionary and will remain in effect only as long as necessary."
+      },
+      {
+        "id": "section-x",
+        "heading": "Section X — Compliance & Review",
+        "text": "Compliance with this Code ensures continued access to civic protections and services. Non-compliance may result in review, guidance, or corrective measures. Decisions issued by authorised officials are binding."
+      },
+      {
+        "id": "closing-message",
+        "heading": "Closing Message",
+        "text": "The Capitol thanks District citizens for their continued cooperation and contribution. Order ensures stability. Stability ensures security. Security ensures survival. By working together, Panem endures."
+      }
+    ],
+    "crossReferences": [
+      {
+        "target": "constitution:article-i",
+        "label": "Constitution Article I"
+      },
+      {
+        "target": "constitution:article-ii",
+        "label": "Constitution Article II"
+      },
+      {
+        "target": "orders:PO-001",
+        "label": "Applicable Peacekeeper Order"
+      }
+    ]
+  },
+  {
+    "id": "CA-002",
+    "title": "Officers Commissions Act",
+    "issuedBy": "Capitol Legislature",
+    "authority": "Constitution of Panem",
+    "jurisdiction": "Panem",
+    "version": "1.0",
+      "stageDate": "2026-01-07",
+    "summary": "An Act enabling commissions for officers of the Panem Defence Forces, and for adjutants and quartermasters of militia and volunteer forces, to be issued without the Presidential Sign Manual being affixed thereto.",
+    "text": "An Act enabling commissions for officers of the Panem Defence Forces, and for adjutants and quartermasters of militia and volunteer forces, to be issued without the Presidential Sign Manual being affixed thereto.",
+    "history": [
+      {
+        "version": "1.0",
+        "date": "2026-01-07",
+        "note": "Initial enactment of the Officers Commissions Act."
+      }
+    ],
+    "sections": [
+      {
+        "id": "chapter-1",
+        "heading": "Chapter 1",
+        "text": "An Act to enable the President to issue Commissions to the Officers of the Panem Defence Forces, and to Adjutants and Quartermasters of their Militia and Volunteer Forces, without affixing the Presidential Sign Manual thereto. [31st December 0064]"
+      },
+      {
+        "id": "enactment-formula",
+        "heading": "Enactment Formula",
+        "text": "BE IT ENACTED by the President, by, and with the advice and consent of the House of Representatives, in this present Parliament assembled, and by the authority of the same, as follows:"
+      },
+      {
+        "id": "section-1",
+        "heading": "Section 1 — Officer Commissions in the Ground Forces, &c. may be issued without the President’s Sign Manual being affixed thereto",
+        "text": "It shall be lawful for the President, by Order in Council, from time to time, as occasion may require, to direct as regards all or any of the President’s military that all or any commissions for officers prepared or to be prepared under the authority of the President’s Royal Sign Manual may be afterwards issued without the Presidential Sign Manual, but having thereon the signature of a Minister of Defence and, if the order so provides, of a member or members of the Defence Council; and every such commission issued and signed in pursuance of such Order in Council shall be conclusive evidence that the officer named in any such commission has been appointed or promoted by the President to the rank or office named therein."
+      },
+      {
+        "id": "section-2",
+        "heading": "Section 2 — Nothing to affect the President’s Right to sign Commissions",
+        "text": "Nothing herein contained shall be construed to prevent the President from signing any commission, or to prevent any commission so signed from having the same validity and effect as if this Act had not passed."
+      }
+    ],
+    "crossReferences": [
+      {
+        "target": "constitution:article-i",
+        "label": "Constitution Article I"
+      }
+    ]
+  },
+  {
+  "id": "CA-OPS-001",
+  "title": "Panem Joint Special Operations Command Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-04",  
+  "summary": "A Capitol Act establishing the Panem Joint Special Operations Command as the supreme authority for specialised military and covert operations, including jurisdiction, command authority, operational powers, classification controls, and structural autonomy.",
+  "text": "A Capitol Act establishing the Panem Joint Special Operations Command as the supreme authority for specialised military and covert operations, including jurisdiction, command authority, operational powers, classification controls, and structural autonomy.",
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-04",
+      "note": "Initial enactment establishing PJSOC."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "The Capitol, in its duty to preserve order, stability, and national unity, establishes a centralised command authority for the execution of specialised operations. This Act ensures that threats to Panem are addressed with precision, coordination, and absolute authority. The Panem Joint Special Operations Command exists to safeguard the State through decisive and controlled action."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Establishment of Command",
+      "text": "The Panem Joint Special Operations Command (PJSOC) is hereby formally constituted as a centralised and permanent authority. PJSOC shall serve as the supreme command structure responsible for all specialised operations conducted within Panem. Its existence ensures unified control, coordination, and execution of high-priority missions."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Mandate and Operational Role",
+      "text": "PJSOC is responsible for the execution of sensitive and high-risk operations essential to the preservation of Capitol authority. This includes counter-insurgency operations, covert and deniable missions, strategic interventions, and the neutralisation of threats across all Districts. Operations shall be conducted with precision, discretion, and efficiency."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Jurisdiction and Authority",
+      "text": "PJSOC shall possess unrestricted operational jurisdiction across all territories of Panem. All District authorities, Peacekeeper units, and administrative bodies shall comply fully with directives issued by PJSOC. No District-level approval shall be required for authorised operations. In cases of conflict, PJSOC authority shall supersede all local command structures."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Command Structure",
+      "text": "Command of PJSOC shall be vested in the Commander of Joint Special Operations, appointed exclusively by the Capitol. The Commander shall operate under direct Capitol authority and shall not be subordinate to District governance or conventional command structures. The Commander is responsible for operational oversight, strategic direction, and execution of all missions."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Structural Authority and Subordinate Units",
+      "text": "PJSOC is granted full authority to establish, organise, redesignate, or dissolve subordinate operational units as required. Such units may include direct action forces, maritime operations groups, reconnaissance and intelligence divisions, aviation commands, and specialised support elements. The designation, structure, and operational scope of these units shall be determined through internal directives and shall not require further legislative approval."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Secrecy and Classification",
+      "text": "All operations, structures, personnel, and activities of the Panem Joint Special Operations Command (PJSOC) shall be subject to classification and secrecy controls as governed by the Capitol Secrets and State Security Act (CA-SEC-001). Classification levels, access permissions, information handling, and disclosure restrictions shall be applied in full accordance with CA-SEC-001. Unauthorised access, disclosure, or dissemination of information relating to PJSOC shall constitute a violation of Capitol law and shall be enforced under the provisions of CA-SEC-001."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Legal Authority and Protection",
+      "text": "Actions undertaken by personnel operating under authorised PJSOC command shall be deemed lawful. Personnel shall be protected from liability when acting within the scope of authorised operations. This provision ensures operational effectiveness without interference or delay."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Operational Integration",
+      "text": "PJSOC shall integrate intelligence, aviation, and ground operational capabilities to ensure coordinated mission execution. It shall have authority to utilise resources from Peacekeeper forces, State Security, and other Capitol-controlled entities as required for mission success."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Enforcement and Supremacy",
+      "text": "This Act shall carry the full force of Capitol law and shall be binding across all Districts without exception. Compliance is mandatory. Any obstruction of PJSOC operations shall be treated as interference with Capitol authority and addressed accordingly."
+    },
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "Through unity of command and precision of action, the Capitol ensures that order is maintained and threats are eliminated before instability can take hold. The Panem Joint Special Operations Command stands as the final instrument of control, ensuring that Panem endures without challenge."
+    }
+  ],
+    "crossReferences": [
+      {
+        "target": "constitution:article-i",
+        "label": "Constitution Article I"
+      },
+      {
+        "target": "constitution:article-xiii",
+        "label": "Article XIII – National Security and Armed Forces"
+      },
+      {
+        "target": "orders:PO-001",
+        "label": "Applicable Peacekeeper Order"
+      },
+      {
+        "target": "acts:CA-SEC-001",
+        "label": "Capitol Secrets and State Security Act"
+      }
+  ]
+},
+{
+  "id": "CA-SEC-001",
+  "title": "Capitol Secrets and State Security Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-04",
+  "summary": "A Capitol Act establishing the legal framework for the classification, protection, control, and enforcement of State secrets within Panem, including secrecy obligations, disclosure offences, intelligence protections, enforcement powers, and penalties for breach.",
+  "text": "A Capitol Act establishing the legal framework for the classification, protection, control, and enforcement of State secrets within Panem, including secrecy obligations, disclosure offences, intelligence protections, enforcement powers, and penalties for breach.",
+    "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-04",
+      "note": "Initial enactment establishing State secrecy and security controls."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "The Capitol, in its supreme authority, declares that the preservation of order, stability, and national security depends upon the strict control of information. This Act establishes the legal structure by which State secrets shall be classified, protected, enforced, and defended against unauthorised disclosure. All protected information exists under the authority of the Capitol and shall be secured in the interests of Panem."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Definitions and Protected Information",
+      "text": "For the purposes of this Act, a State Secret shall mean any information, document, communication, material, directive, operation, or item of knowledge designated by the Capitol or its authorised bodies as restricted, classified, or protected in the interests of national security, internal stability, public order, or Capitol authority. Such information shall remain the property of the Capitol at all times."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Classification Structure",
+      "text": "State Secrets shall be categorised according to the level of protection required. Capitol Black shall denote information of absolute secrecy, the disclosure of which constitutes immediate treason. Capitol Red shall denote information of severe national security sensitivity. Capitol Gold shall denote strategic, operational, or structural material of protected status. Capitol White shall denote controlled internal information restricted to authorised access. Classification shall be assigned, reviewed, and amended solely under Capitol authority."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Authorised Access and Duty of Control",
+      "text": "Access to State Secrets shall be restricted exclusively to persons granted formal clearance by the Capitol, Panem State Security, or a recognised Directorate acting under lawful authority. All authorised persons shall maintain strict control over classified information and shall prevent loss, exposure, negligence, or unauthorised access. Possession of clearance shall not permit disclosure beyond operational necessity."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Offences Relating to Unauthorised Disclosure",
+      "text": "Any person who communicates, publishes, transfers, reveals, transmits, stores, copies, or otherwise discloses a State Secret without lawful authority commits an offence under this Act. This prohibition applies to verbal statements, written records, digital transmissions, encoded material, negligent exposure, and all other forms of dissemination. Any person who receives classified information and further discloses it while knowing, or reasonably suspecting, its protected nature likewise commits an offence."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Retention, Removal, and Surrender of Classified Material",
+      "text": "It shall be an offence to retain, conceal, remove, duplicate, destroy without authorisation, or fail to surrender classified material when directed by the Capitol or an authorised enforcement body. All classified information shall remain subject to recovery, seizure, audit, and immediate surrender upon instruction. No individual shall claim personal entitlement over State-protected information."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Security and Intelligence Protections",
+      "text": "Absolute secrecy protections shall apply to Panem State Security, the Praetorian Division, the Directorate of Internal Surveillance, Counter-Insurgency Command, and any other body designated by the Capitol. The disclosure of agent identities, surveillance programmes, intelligence methods, covert structures, hidden directives, or protected operations shall constitute a grave breach of State security and shall be treated as high treason where appropriate."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Military, Enforcement, and Operational Secrecy",
+      "text": "Any disclosure relating to Peacekeeper deployments, military planning, command structures, operational directives, enforcement procedures, weapons systems, emergency powers, or specialised response capabilities is prohibited under this Act. Such protections shall extend to all defence, security, and internal control functions carried out in service of Capitol authority."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Enforcement Powers",
+      "text": "Panem State Security and other duly authorised bodies shall possess full authority to investigate breaches of this Act. Such authority includes the power to seize materials, detain persons of interest, conduct surveillance, recover information, restrict communications, and issue immediate compliance directives as necessary to preserve State security. No District-level approval shall be required for enforcement carried out under this Act."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Harmful Information and Internal Stability",
+      "text": "Any information, whether formally classified or not, that undermines Capitol authority, incites unrest, disrupts economic stability, weakens public order, damages operational confidence, or encourages District disloyalty may be treated as a State Secret for the purposes of enforcement under this Act. The Capitol shall retain sole authority to determine whether information is harmful to the stability of Panem."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Permanent Duty of Silence",
+      "text": "All individuals granted access to State Secrets shall remain bound by a permanent and continuing duty of silence. This obligation shall survive resignation, reassignment, retirement, dismissal, or removal from service. Ignorance of classification status shall not constitute a defence where a reasonable person would have understood the information to be sensitive, restricted, or security-related."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Penalties and Sanctions",
+      "text": "Breaches of this Act shall be punishable according to their severity. Sanctions may include detention, labour reassignment, permanent revocation of status, indefinite confinement, transfer to high-security facilities, erasure from public record, or any other lawful sanction authorised by the Capitol. A Capitol Black breach, or any disclosure deemed treasonous in nature, shall permit maximum sanction as determined by the Capitol."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Exclusion of Public Interest Defence",
+      "text": "No person may justify the disclosure of State Secrets on the basis of public interest, personal conscience, moral objection, belief in transparency, or any comparable claim. The security of Panem and the authority of the Capitol shall supersede all individual reasoning or unauthorised judgment."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Supremacy and Final Authority",
+      "text": "This Act shall carry the full force of Capitol law and shall override all District-level provisions, customs, or competing directives. The Capitol retains absolute authority to classify, reclassify, declassify, expand, or redefine protected information at its sole discretion. Compliance with this Act is mandatory throughout Panem without exception."
+    },
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "The security of the State is preserved through silence, discipline, and obedience. By safeguarding protected knowledge, the Capitol safeguards Panem itself. All information serves the Capitol. All secrecy preserves order. All disclosure without authority is disloyalty to the State."
+    }
+  ]
+}
+
+]

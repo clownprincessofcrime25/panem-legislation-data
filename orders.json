@@ -1,0 +1,102 @@
+[
+  {
+    "id": "PO-001",
+    "issuedBy": "Peacekeeper High Command",
+    "authority": "Capitol Security Authority",
+    "jurisdiction": "All Districts",
+    "version": "1.1",
+    "stageDate": "2026-04-04",
+    "effectiveDate": "2026-04-04",
+    "updatedAt": "2026-04-04",
+    "status": "Active",
+    "title": "Peacekeeper Operational Directive 01 — Enforcement of the Capitol Civic Code",
+    "summary": "Establishes Peacekeeper enforcement doctrine, authority, and operational procedures for maintaining order and ensuring compliance with the Capitol Civic Code across all Districts.",
+    "text": "All Peacekeeper personnel shall act in accordance with central command directives and preserve order through the enforcement of the Capitol Civic Code (CA-001). Peacekeepers are the primary enforcement authority within the Districts and are responsible for maintaining stability, ensuring compliance, and safeguarding Capitol interests at all times.",
+    "enablingActId": "CA-001",
+    "relatedLegislation": ["CA-001"],
+    "history": [
+      {
+        "version": "1.0",
+        "date": "2026-04-01",
+        "note": "Initial issue of Peacekeeper Operational Directive 01."
+      },
+      {
+        "version": "1.1",
+        "date": "2026-04-04",
+        "note": "Updated directive language and formalised enforcement doctrine under the Capitol Civic Code."
+      }
+    ],
+    "sections": [
+      {
+        "id": "foreword",
+        "heading": "Operational Foreword",
+        "text": "This Directive establishes the operational framework for Peacekeeper forces across all Districts. It provides authority, structure, and enforcement guidance required to implement the Capitol Civic Code (CA-001). Peacekeepers represent the authority of the Capitol and must ensure absolute compliance, stability, and continuity of operations."
+      },
+      {
+        "id": "section-i",
+        "heading": "Section I — Authority of Enforcement",
+        "text": "Peacekeepers are authorised representatives of the Capitol with full authority to enforce all provisions of the Capitol Civic Code (CA-001). All lawful orders issued by Peacekeepers are binding and must be obeyed immediately."
+      },
+      {
+        "id": "section-ii",
+        "heading": "Section II — Compliance Enforcement",
+        "text": "Peacekeepers shall identify and address all forms of non-compliance. Enforcement actions may include instruction, warning, restriction, detention, or corrective assignment. Escalation must ensure rapid restoration of order."
+      },
+      {
+        "id": "section-iii",
+        "heading": "Section III — Public Order & Assembly Control",
+        "text": "Peacekeepers are responsible for maintaining public order. Unauthorised gatherings or disruptive behaviour may be dispersed. Controlled zones and enforcement formations may be deployed as required."
+      },
+      {
+        "id": "section-iv",
+        "heading": "Section IV — Movement Regulation",
+        "text": "Peacekeepers shall enforce all movement controls under the Capitol Civic Code (CA-001). Individuals may be stopped, redirected, or denied movement where necessary. Checkpoints and inspections are authorised at all times."
+      },
+      {
+        "id": "section-v",
+        "heading": "Section V — Inspection & Verification",
+        "text": "Peacekeepers may conduct inspections of individuals, property, and workplaces to verify compliance. Refusal to cooperate constitutes non-compliance and may result in immediate enforcement action."
+      },
+      {
+        "id": "section-vi",
+        "heading": "Section VI — Protection of Infrastructure & Production",
+        "text": "Peacekeepers shall ensure the protection of infrastructure and enforcement of production requirements. Any disruption to output or logistics may be subject to immediate intervention."
+      },
+      {
+        "id": "section-vii",
+        "heading": "Section VII — Information Control Enforcement",
+        "text": "Peacekeepers shall enforce restrictions on unauthorised communications and materials as defined under the Capitol Civic Code (CA-001). Prohibited materials may be seized and investigated."
+      },
+      {
+        "id": "section-viii",
+        "heading": "Section VIII — Civic Participation Enforcement",
+        "text": "Peacekeepers shall enforce attendance and participation in mandatory civic activities. Non-compliance may result in corrective action."
+      },
+      {
+        "id": "section-ix",
+        "heading": "Section IX — Emergency Powers",
+        "text": "During periods of unrest or instability, Peacekeepers are authorised to implement emergency measures including curfews, lockdowns, and detentions to restore order."
+      },
+      {
+        "id": "section-x",
+        "heading": "Section X — Detention & Corrective Measures",
+        "text": "Peacekeepers may detain individuals for non-compliance or threat prevention. All detentions must follow Capitol administrative procedures and be formally recorded."
+      },
+      {
+        "id": "section-xi",
+        "heading": "Section XI — Command & Reporting",
+        "text": "All Peacekeeper actions must be reported through the established chain of command. Directive compliance is mandatory and subject to oversight."
+      },
+      {
+        "id": "section-xii",
+        "heading": "Section XII — Compliance Obligation",
+        "text": "All citizens are required to comply with Peacekeeper instructions. Failure to do so constitutes a breach of the Capitol Civic Code (CA-001) and will result in enforcement action."
+      },
+      {
+        "id": "closing",
+        "heading": "Closing Directive Statement",
+        "text": "Peacekeepers are the enforcement arm of the Capitol. Through discipline, authority, and unwavering execution of duty, order is preserved. Compliance is mandatory. Stability is absolute."
+      }
+    ]
+  }
+]

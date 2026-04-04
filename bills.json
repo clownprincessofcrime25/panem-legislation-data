@@ -1,0 +1,44 @@
+[
+  {
+    "id": "PB-OPS-001",
+    "title": "Panem Joint Special Operations Command Bill",
+    "issuedBy": "House of Representatives",
+    "authority": "Legislative Process of Panem",
+    "jurisdiction": "Panem",
+    "version": "Bill Stage Draft",
+    "summary": "To establish the Panem Joint Special Operations Command, to provide for the coordination, control, and execution of special operations across all Districts, and for connected purposes.",
+    "text": "A BILL\n\nTo establish the Panem Joint Special Operations Command, to provide for the coordination, control, and execution of special operations across all Districts, and for connected purposes.\n\nSection 1 – Establishment\n1. There shall be established a centralised command authority known as the Panem Joint Special Operations Command (PJSOC).\n2. PJSOC shall operate under the authority of the Capitol and shall serve as the supreme body for all special operations within Panem.\n\nSection 2 – Purpose and Function\nPJSOC shall be responsible for:\na. The planning, coordination, and execution of special operations;\nb. Counter-insurgency and suppression of internal threats;\nc. Covert and deniable operations as authorised by the Capitol;\nd. Strategic intervention across all Districts;\ne. The integration of intelligence, aviation, and ground special operations capabilities.\n\nSection 3 – Authority\n1. PJSOC shall possess unrestricted operational jurisdiction across all territories of Panem.\n2. All District authorities shall comply with directives issued by PJSOC.\n3. PJSOC operations shall not require prior approval from District-level governance structures.\n\nSection 4 – Command Structure\n1. PJSOC shall be led by a Commander of Joint Special Operations, appointed by the Capitol.\n2. The Commander shall report directly to the Capitol Executive Authority or designated Ministry.\n\nSection 5 – Subordinate Units\n1. PJSOC is hereby authorised to establish, maintain, restructure, or dissolve subordinate operational units as required.\n2. Such units may include, but are not limited to direct action forces, maritime operations units, reconnaissance and intelligence units, and aviation support commands.\n3. The structure, designation, and function of such units shall be determined by internal directive and shall not require further legislative approval.\n\nSection 6 – Classification and Secrecy\n1. The operations, structure, and activities of PJSOC may be classified at any level deemed necessary.\n2. Disclosure of protected information relating to PJSOC shall constitute a breach of Capitol security law.\n\nSection 7 – Legal Protection\n1. Personnel operating under PJSOC authority shall be indemnified for actions undertaken in the execution of authorised operations.\n2. Such actions shall be deemed lawful when conducted under valid command authority.\n\nSection 8 – Commencement\nThis Act shall come into force upon approval by the Capitol.",
+    "status": "Enacted",
+    "stageDate": "2026-04-04",
+    "updatedAt": "2026-04-04",
+    "sponsor": "Office of the President",
+    "classification": "Security Act",
+    "resultingActId": "CA-OPS-001",
+    "history": [
+      {
+        "version": "Bill Stage Draft",
+        "status": "Draft",
+        "date": "2026-04-01",
+        "note": "Initial bill draft prepared for legislative introduction."
+      },
+      {
+        "version": "Bill Stage Introduced",
+        "status": "Introduced",
+        "date": "2026-04-02",
+        "note": "Bill formally introduced to the House of Representatives."
+      },
+      {
+        "version": "Bill Stage Capitol Review",
+        "status": "Capitol Review",
+        "date": "2026-04-03",
+        "note": "Bill entered Capitol review prior to final approval."
+      },
+      {
+        "version": "Bill Stage Enacted",
+        "status": "Enacted",
+        "date": "2026-04-04",
+        "note": "Bill completed the legislative process and became CA-OPS-001."
+      }
+    ]
+  }
+]

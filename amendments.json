@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AM-001",
+    "title": "First Constitutional Clarification",
+    "issuedBy": "Capitol Legislature",
+    "authority": "Amendment Authority",
+    "jurisdiction": "Panem",
+    "version": "1.0",
+    "stageDate": "2026-03-25",
+    "effectiveDate": "2026-03-25",
+    "updatedAt": "2026-03-25",
+    "status": "Active",
+    "summary": "Clarifies the supremacy of Capitol-issued law.",
+    "text": "All subordinate regulations must be interpreted consistently with the Constitution and Capitol Acts.",
+    "affectedActId": "CA-001",
+    "history": [
+      {
+        "version": "1.0",
+        "date": "2026-03-25",
+        "note": "Initial amendment issued clarifying the supremacy of Capitol-issued law."
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "DR-001",
+    "title": "Capitol Civic Code",
+    "issuedBy": "District Administration",
+    "authority": "Capitol Delegated Authority",
+    "jurisdiction": "Relevant District",
+    "version": "1.0",
+    "effectiveDate": "2026-01-07",
+    "updatedAt": "2026-01-07",
+    "status": "Active",
+    "summary": "Establishes civic obligations and public order requirements.",
+    "text": "The Capitol Civic Code governs civic conduct, public order, and administrative compliance throughout Panem.",
+    "history": [
+      {
+        "version": "1.0",
+        "date": "2026-01-07",
+        "note": "Initial issue under delegated District authority."
+      }
+    ]
+  },
+  {
+    "id": "DR-002",
+    "issuedBy": "District Administration",
+    "authority": "Capitol Delegated Authority",
+    "jurisdiction": "Relevant District",
+    "version": "1.0",
+    "effectiveDate": "2026-01-07",
+    "updatedAt": "2026-01-07",
+    "status": "Active",
+    "title": "Public Order Preservation Act",
+    "summary": "Provides enforcement mechanisms to preserve order and security.",
+    "text": "This Act provides the state with powers necessary to preserve public order and prevent disorder.",
+    "history": [
+      {
+        "version": "1.0",
+        "date": "2026-01-07",
+        "note": "Initial issue under delegated District authority."
+      }
+    ]
+  }
+]
