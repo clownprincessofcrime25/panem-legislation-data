@@ -326,6 +326,1325 @@
       "text": "The security of the State is preserved through silence, discipline, and obedience. By safeguarding protected knowledge, the Capitol safeguards Panem itself. All information serves the Capitol. All secrecy preserves order. All disclosure without authority is disloyalty to the State."
     }
   ]
-}
+},
+{
+  "id": "CA-SOV-001",
+  "title": "Capitol Sovereignty Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act establishing the absolute sovereignty of the Capitol over all districts, authorities, institutions, and citizens of Panem, affirming its supreme and unchallengeable authority in all matters of governance, law, and control.",
+  "text": "A Capitol Act establishing the absolute sovereignty of the Capitol over all districts, authorities, institutions, and citizens of Panem, affirming its supreme and unchallengeable authority in all matters of governance, law, and control.",
+  "tags": ["foundational", "authority", "capitol", "supremacy"],
+  "relatedActs": ["CA-COM-001", "CA-EPA-001"],
+  "overrides": [],
+  "overriddenBy": ["CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment establishing supreme Capitol authority."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "The Capitol, as the central and permanent authority of Panem, declares that unity, order, and survival are maintained through a singular and unchallenged system of governance. This Act formally establishes that all authority originates from the Capitol and that no competing power, influence, or structure shall exist beyond its control. The stability of Panem depends upon the recognition and enforcement of this principle without exception."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Establishment of Sovereignty",
+      "text": "The Capitol shall be recognised as the sole sovereign authority within Panem. All territories, districts, populations, institutions, and resources exist under its jurisdiction and control. No District or body shall possess independent sovereignty, autonomy, or governing legitimacy separate from the Capitol."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Centralisation of Power",
+      "text": "All legislative, executive, and judicial powers shall reside exclusively within the Capitol. Such powers may be delegated to authorised bodies, Peacekeeper commands, or administrative authorities at the discretion of the Capitol, but shall remain subject to immediate withdrawal, amendment, or override at any time."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Supremacy of Capitol Law",
+      "text": "All laws, directives, decrees, and orders issued by the Capitol shall hold supreme authority over all District-level rules, customs, practices, or traditions. Any conflicting provision shall be rendered null and void upon issuance of a Capitol directive."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Obligation of Allegiance",
+      "text": "All citizens of Panem shall owe absolute allegiance to the Capitol. This obligation includes compliance with laws, directives, and enforcement actions, as well as the duty to refrain from any conduct that may weaken or challenge Capitol authority."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Prohibition of Autonomous Governance",
+      "text": "No District, organisation, or individual shall establish or attempt to establish independent governance, leadership structures, or systems of authority. Any such act shall be considered a direct challenge to Capitol sovereignty and may be prosecuted under applicable security legislation."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Authority Over Resources and Infrastructure",
+      "text": "All natural resources, industrial output, infrastructure, transportation systems, and economic activity within Panem shall be deemed property of the Capitol. The allocation, distribution, and utilisation of such resources shall be determined solely by Capitol authority."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Enforcement of Sovereignty",
+      "text": "The enforcement of Capitol sovereignty shall be carried out by Peacekeepers, military forces, and authorised enforcement bodies. Such entities shall possess full authority to act in defence of Capitol control, including the use of force where necessary."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Suppression of Challenges to Authority",
+      "text": "Any act, communication, or organisation that challenges, questions, or undermines the sovereignty of the Capitol shall be subject to immediate investigation and suppression. This includes, but is not limited to, political dissent, unauthorised assemblies, and the spread of destabilising information."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Relationship to Other Acts",
+      "text": "This Act shall serve as the foundational authority for all other Capitol legislation. All Acts derive their legitimacy from Capitol sovereignty and shall be interpreted in accordance with its principles."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Limitations and Overrides",
+      "text": "While this Act establishes absolute authority, such authority may be further expanded, enforced, or temporarily altered under the provisions of the Emergency Powers Act where required to preserve stability."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Permanence of Authority",
+      "text": "The sovereignty of the Capitol shall be permanent and continuous. No circumstance, condition, or event shall diminish or suspend its authority unless determined solely by the Capitol itself."
+    },
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "The Capitol is the origin of law, the source of order, and the guarantor of stability. Its authority is not granted—it is inherent, absolute, and enduring. All power belongs to the Capitol. All loyalty is owed to it."
+    }
+  ]
+},
+{
+  "id": "CA-COM-001",
+  "title": "District Compliance Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act mandating absolute compliance with all Capitol directives, establishing the obligations of districts and citizens to obey, execute, and uphold all lawful orders, and defining enforcement measures and penalties for non-compliance.",
+  "text": "A Capitol Act mandating absolute compliance with all Capitol directives, establishing the obligations of districts and citizens to obey, execute, and uphold all lawful orders, and defining enforcement measures and penalties for non-compliance.",
+  "tags": ["control", "compliance", "districts", "obedience"],
+  "relatedActs": ["CA-SOV-001", "CA-TRS-001", "CA-CJA-001"],
+  "overrides": [],
+  "overriddenBy": ["CA-DML-001", "CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment enforcing district-wide compliance."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "The continued order and stability of Panem depend upon unwavering obedience to the authority of the Capitol. This Act establishes the legal obligation of all districts and citizens to comply fully with all directives, instructions, and mandates issued under Capitol authority. Compliance shall be immediate, complete, and without resistance."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Duty of Compliance",
+      "text": "All citizens, organisations, and governing bodies within Panem shall comply with any directive, instruction, or order issued by the Capitol or its authorised representatives. Compliance shall be carried out without delay, modification, or refusal, regardless of personal, local, or operational considerations."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Scope of Directives",
+      "text": "Capitol directives shall include, but are not limited to, production quotas, labour assignments, movement restrictions, resource allocation, security measures, information control, and enforcement instructions. All such directives shall carry the full force of law upon issuance."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Responsibility of District Authorities",
+      "text": "District officials, administrators, and appointed representatives shall be responsible for the implementation and enforcement of Capitol directives within their jurisdiction. Failure to enforce compliance shall constitute a breach of duty and may result in removal, detention, or prosecution."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Prohibited Conduct",
+      "text": "It shall be prohibited for any individual or group to refuse, delay, obstruct, interfere with, or otherwise fail to comply with a Capitol directive. This includes passive resistance, concealment of required actions, falsification of compliance records, or any attempt to undermine execution."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Collective Responsibility",
+      "text": "Where non-compliance occurs within a District, workplace, or designated group, responsibility may be assigned collectively. The Capitol reserves the authority to impose sanctions upon entire populations or units where compliance failures are identified."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Monitoring and Verification",
+      "text": "The Capitol and its authorised enforcement bodies shall maintain the authority to monitor, inspect, and verify compliance at any time. This includes access to facilities, records, communications, and personnel without prior notice or approval."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Enforcement Authority",
+      "text": "Peacekeepers and authorised agents shall possess full authority to enforce compliance. This includes the power to issue immediate corrective orders, detain non-compliant individuals, apply force where necessary, and escalate matters under criminal or security legislation."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Escalation to Criminal Offence",
+      "text": "Serious or repeated non-compliance shall constitute a criminal offence and may be prosecuted under the Criminal Justice Act or, where applicable, the Treason and Sedition Act."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Penalties and Sanctions",
+      "text": "Violations of this Act may result in detention, labour reassignment, loss of privileges, ration restrictions, public sanction, or any other penalty deemed appropriate by the Capitol. Penalties may be applied individually or collectively."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Priority of Enforcement",
+      "text": "Compliance with Capitol directives shall take precedence over all other obligations, duties, or considerations. No individual or authority may justify non-compliance on the basis of conflicting instructions, personal belief, or operational difficulty."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Interaction with Crisis Legislation",
+      "text": "During periods of unrest or emergency, enforcement of compliance may be expanded under the District Martial Law Act or the Emergency Powers Act. Under such conditions, compliance requirements may be immediate and absolute, without procedural limitation."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Permanence of Obligation",
+      "text": "The duty to comply with Capitol authority shall be continuous and ongoing. No individual or group shall be exempt from this obligation at any time, regardless of status, role, or circumstance."
+    },
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "Compliance ensures order. Order ensures stability. Stability ensures the survival of Panem. To obey the Capitol is to preserve the State."
+    }
+  ]
+},
+{
+  "id": "CA-TRS-001",
+  "title": "Treason and Sedition Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act defining, prohibiting, and punishing treason, sedition, disloyalty, and all acts or expressions that undermine the authority, stability, or control of the Capitol.",
+  "text": "A Capitol Act defining, prohibiting, and punishing treason, sedition, disloyalty, and all acts or expressions that undermine the authority, stability, or control of the Capitol.",
+  "tags": ["treason", "sedition", "security", "loyalty", "control"],
+  "relatedActs": ["CA-COM-001", "CA-CJA-001", "CA-SOV-001"],
+  "overrides": [],
+  "overriddenBy": ["CA-DML-001", "CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment defining and criminalising disloyalty."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "The authority of the Capitol is sustained through loyalty, discipline, and unity. Any act that threatens this foundation endangers the stability of Panem itself. This Act establishes the definition of treason and sedition, and provides the framework for identifying, suppressing, and punishing all forms of disloyalty."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Definition of Treason",
+      "text": "Treason shall include any act, attempt, or intention to overthrow, weaken, challenge, or undermine the authority of the Capitol. This includes organised rebellion, conspiracy, collaboration with hostile elements, or any action directed against Capitol control."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Definition of Sedition",
+      "text": "Sedition shall include any speech, communication, publication, gesture, or expression that promotes discontent, resistance, or opposition to the Capitol. The encouragement of doubt, dissent, or unrest shall be considered seditious conduct."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Acts of Disloyalty",
+      "text": "Disloyalty shall include refusal to demonstrate allegiance, failure to report suspicious activity, association with known dissidents, or any behaviour that may reasonably be interpreted as undermining Capitol authority."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Prohibited Organisations and Associations",
+      "text": "The formation, support, or participation in any unauthorised organisation, group, or network that operates outside Capitol approval is prohibited. Such entities shall be deemed hostile and subject to immediate dissolution and enforcement action."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Dissemination of Prohibited Information",
+      "text": "The creation, possession, or distribution of materials that criticise, challenge, or undermine the Capitol shall be prohibited. This includes written, spoken, digital, or symbolic communication."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Duty to Report",
+      "text": "All citizens shall have a duty to report any suspected acts of treason, sedition, or disloyalty. Failure to report such activity shall constitute an offence under this Act."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Presumption of Threat",
+      "text": "Where behaviour, communication, or association presents a potential risk to Capitol authority, such conduct may be treated as a threat regardless of intent. The Capitol shall retain full discretion in determining what constitutes a threat."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Investigation and Enforcement",
+      "text": "Panem State Security, Peacekeepers, and authorised enforcement bodies shall possess full authority to investigate suspected offences under this Act. This includes surveillance, detention, interrogation, and the seizure of materials without prior approval."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Detention and Pre-Trial Control",
+      "text": "Individuals suspected of offences under this Act may be detained indefinitely pending investigation. Standard procedural safeguards may be limited or suspended where necessary to protect Capitol interests."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Penalties and Sanctions",
+      "text": "Offences under this Act shall carry the most severe penalties available under Capitol law. These may include execution, indefinite detention, labour reassignment, public punishment, or removal from society. The severity of punishment shall be determined solely by the Capitol."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Public Deterrence Measures",
+      "text": "The Capitol may authorise the public display or broadcast of punishments carried out under this Act in order to reinforce loyalty and deter disobedience."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — No Defence of Justification",
+      "text": "No individual may justify acts of treason or sedition on the basis of personal belief, moral reasoning, perceived injustice, or claims of public interest. Such arguments shall not constitute a defence."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Interaction with Other Acts",
+      "text": "Offences under this Act may be prosecuted in conjunction with the Criminal Justice Act and enforced through the District Compliance Act. During periods of unrest, this Act may be expanded under the District Martial Law Act or the Emergency Powers Act."
+    },
+    {
+      "id": "section-xiv",
+      "heading": "Section XIV — Permanent Obligation of Loyalty",
+      "text": "All citizens of Panem shall remain under a continuous obligation of loyalty to the Capitol. This obligation shall not be limited by time, role, or circumstance."
+    },
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "Loyalty is strength. Unity is survival. Disloyalty is destruction. Those who stand against the Capitol stand against Panem itself—and shall be removed accordingly."
+    }
+  ]
+},
+{
+  "id": "CA-CJA-001",
+  "title": "Criminal Justice Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A comprehensive Capitol Act establishing the criminal justice system of Panem, including offence classification, court structures, trial procedures, sentencing frameworks, detention systems, enforcement authority, and mechanisms for control and punishment.",
+  "text": "A comprehensive Capitol Act establishing the criminal justice system of Panem, including offence classification, court structures, trial procedures, sentencing frameworks, detention systems, enforcement authority, and mechanisms for control and punishment.",
+  "tags": ["justice", "courts", "sentencing", "enforcement", "detention"],
+  "relatedActs": ["CA-TRS-001", "CA-COM-001", "CA-ROE-001"],
+  "overrides": [],
+  "overriddenBy": ["CA-DML-001", "CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment of comprehensive criminal justice framework."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "Justice within Panem exists to preserve order, enforce obedience, and protect the authority of the Capitol. This Act establishes the full legal framework through which offences are defined, investigated, judged, and punished. All judicial processes shall operate in service of stability and control."
+    },
 
+    {
+      "id": "part-i",
+      "heading": "Part I — Classification of Offences",
+      "text": "Offences shall be categorised to ensure proportional enforcement and appropriate punishment."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Minor Offences",
+      "text": "Minor offences shall include breaches of curfew, minor non-compliance, unauthorised movement, and administrative violations. These offences shall typically result in fines, labour assignment, or short-term detention."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Serious Offences",
+      "text": "Serious offences shall include theft of Capitol property, black market activity, organised non-compliance, and interference with enforcement operations. These offences shall result in extended detention, labour reassignment, or public punishment."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Capital Offences",
+      "text": "Capital offences shall include treason, sedition, rebellion, sabotage, and acts threatening Capitol authority. Such offences shall carry the highest penalties, including execution or indefinite confinement."
+    },
+
+    {
+      "id": "part-ii",
+      "heading": "Part II — Judicial Authority and Court Structure",
+      "text": "The administration of justice shall be conducted through a structured system of courts under Capitol authority."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — District Courts",
+      "text": "District Courts shall handle minor and selected serious offences. Proceedings shall be overseen by appointed officials acting under Capitol authority."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Capitol Courts",
+      "text": "Capitol Courts shall preside over serious and high-priority cases. These courts shall possess full sentencing authority."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Military Tribunals",
+      "text": "Military Tribunals shall preside over cases involving treason, rebellion, or threats to state security. Such tribunals shall operate under expedited procedures."
+    },
+
+    {
+      "id": "part-iii",
+      "heading": "Part III — Arrest and Detention Powers",
+      "text": "Enforcement bodies shall possess broad authority to detain individuals suspected of offences."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Arrest Authority",
+      "text": "Peacekeepers and authorised agents may arrest individuals without warrant where suspicion exists."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Pre-Trial Detention",
+      "text": "Suspects may be held in detention pending investigation without fixed time limitation."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Conditions of Detention",
+      "text": "Detention conditions shall be determined by Capitol authority and may vary based on offence classification."
+    },
+
+    {
+      "id": "part-iv",
+      "heading": "Part IV — Trial Procedures",
+      "text": "Judicial proceedings shall prioritise efficiency, control, and the maintenance of order."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Conduct of Trials",
+      "text": "Trials may be conducted without jury. Proceedings may be expedited or limited as required."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Evidence",
+      "text": "Evidence may include witness testimony, surveillance records, confessions, and intelligence reports."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Defence Limitations",
+      "text": "The right to legal defence may be restricted or denied where deemed necessary."
+    },
+
+    {
+      "id": "part-v",
+      "heading": "Part V — Sentencing Framework",
+      "text": "Sentencing shall reflect the severity of the offence and the threat posed to Capitol authority."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Types of Sentences",
+      "text": "Sentences shall include labour assignment, detention, public punishment, status removal, or execution."
+    },
+    {
+      "id": "section-xiv",
+      "heading": "Section XIV — Escalation for Repeat Offenders",
+      "text": "Repeat offences shall result in progressively severe penalties."
+    },
+    {
+      "id": "section-xv",
+      "heading": "Section XV — Indefinite Detention",
+      "text": "Individuals deemed a continuing threat may be held indefinitely without release."
+    },
+
+    {
+      "id": "part-vi",
+      "heading": "Part VI — Special Offender Provisions",
+      "text": "Certain individuals shall be subject to enhanced control measures."
+    },
+    {
+      "id": "section-xvi",
+      "heading": "Section XVI — Dangerous Individuals",
+      "text": "Persons deemed dangerous may be subject to continuous monitoring or confinement."
+    },
+    {
+      "id": "section-xvii",
+      "heading": "Section XVII — Collective Sanctions",
+      "text": "Groups or districts may face penalties for collective non-compliance."
+    },
+
+    {
+      "id": "part-vii",
+      "heading": "Part VII — Appeals and Review",
+      "text": "Appeals shall be limited and controlled."
+    },
+    {
+      "id": "section-xviii",
+      "heading": "Section XVIII — Right of Appeal",
+      "text": "Appeals may only be submitted with Capitol approval."
+    },
+    {
+      "id": "section-xix",
+      "heading": "Section XIX — Final Authority",
+      "text": "All decisions may be upheld, altered, or reversed by the Capitol."
+    },
+
+    {
+      "id": "part-viii",
+      "heading": "Part VIII — Enforcement and Oversight",
+      "text": "The enforcement of justice shall remain under centralised control."
+    },
+    {
+      "id": "section-xx",
+      "heading": "Section XX — Enforcement Bodies",
+      "text": "Peacekeepers and State Security shall enforce all judicial outcomes."
+    },
+    {
+      "id": "section-xxi",
+      "heading": "Section XXI — Oversight Authority",
+      "text": "The Capitol retains full oversight of all judicial processes."
+    },
+
+    {
+      "id": "part-ix",
+      "heading": "Part IX — Interaction with Other Acts",
+      "text": "This Act shall operate in conjunction with all other Capitol legislation."
+    },
+    {
+      "id": "section-xxii",
+      "heading": "Section XXII — Legislative Integration",
+      "text": "Offences under other Acts shall be processed through this framework."
+    },
+    {
+      "id": "section-xxiii",
+      "heading": "Section XXIII — Crisis Override",
+      "text": "During martial law or emergency conditions, standard procedures may be suspended."
+    },
+
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "Justice is not a right—it is an instrument of order. Through discipline, enforcement, and control, the Capitol ensures that stability is maintained and disobedience is extinguished."
+    }
+  ]
+},
+{
+  "id": "CA-ROE-001",
+  "title": "Rules of Engagement Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act establishing the legal framework governing the use of force by Peacekeepers, military units, and authorised enforcement bodies, including escalation procedures, operational authority, and conditions under which force may be applied.",
+  "text": "A Capitol Act establishing the legal framework governing the use of force by Peacekeepers, military units, and authorised enforcement bodies, including escalation procedures, operational authority, and conditions under which force may be applied.",
+  "tags": ["military", "force", "peacekeepers", "security", "enforcement"],
+  "relatedActs": ["CA-CJA-001", "CA-COM-001", "CA-DML-001"],
+  "overrides": [],
+  "overriddenBy": ["CA-DML-001", "CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment defining authorised use of force."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "The maintenance of order within Panem requires the controlled and disciplined application of force. This Act establishes the conditions, authority, and limitations under which force may be used by Peacekeepers and authorised bodies in defence of Capitol stability. All use of force shall serve the preservation of order and the enforcement of Capitol authority."
+    },
+
+    {
+      "id": "part-i",
+      "heading": "Part I — Authority to Use Force",
+      "text": "This Part defines the legal authority granted to enforcement bodies."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Authorised Personnel",
+      "text": "Peacekeepers, military units, and authorised agents acting under Capitol authority shall be permitted to use force in the execution of their duties."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Legal Basis",
+      "text": "All use of force carried out under this Act shall be deemed lawful where it is undertaken in the interest of maintaining order, enforcing compliance, or protecting Capitol authority."
+    },
+
+    {
+      "id": "part-ii",
+      "heading": "Part II — Levels of Force",
+      "text": "Force shall be applied in graduated levels according to perceived threat."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Presence and Command",
+      "text": "The visible presence of Peacekeepers and the issuing of lawful commands shall constitute the initial level of force."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Physical Control",
+      "text": "Where compliance is not achieved, physical restraint, detention, and control techniques may be used."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Non-Lethal Measures",
+      "text": "Non-lethal measures, including crowd control methods and incapacitating force, may be used to restore order."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Lethal Force",
+      "text": "Lethal force is authorised where a threat to Capitol authority, Peacekeeper safety, or public order is identified or reasonably perceived."
+    },
+
+    {
+      "id": "part-iii",
+      "heading": "Part III — Conditions for Use of Force",
+      "text": "Force shall be applied based on situational assessment and perceived threat."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Perceived Threat Standard",
+      "text": "The use of force may be justified based on the reasonable perception of threat, regardless of whether such threat is later confirmed."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Prevention of Disorder",
+      "text": "Force may be used pre-emptively to prevent gatherings, actions, or behaviours likely to result in disorder or unrest."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Protection of Infrastructure",
+      "text": "Force may be used to defend Capitol property, infrastructure, and resources from interference or damage."
+    },
+
+    {
+      "id": "part-iv",
+      "heading": "Part IV — Operational Authority",
+      "text": "Command and operational decisions shall guide the application of force."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Command Discretion",
+      "text": "Commanding officers shall retain full discretion in determining the level and type of force required in any situation."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Immediate Action Authority",
+      "text": "Individual Peacekeepers may act without prior approval where immediate action is required."
+    },
+
+    {
+      "id": "part-v",
+      "heading": "Part V — Special Operational Contexts",
+      "text": "Enhanced powers apply in specific circumstances."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Public Order Operations",
+      "text": "During crowd control or civil disturbance operations, force may be applied broadly to restore order."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Counter-Insurgency",
+      "text": "In operations involving suspected rebellion or organised resistance, all levels of force, including lethal measures, may be applied without restriction."
+    },
+    {
+      "id": "section-xiv",
+      "heading": "Section XIV — High-Risk Individuals",
+      "text": "Individuals identified as threats to Capitol authority may be subject to immediate and decisive use of force."
+    },
+
+    {
+      "id": "part-vi",
+      "heading": "Part VI — Accountability and Legal Protection",
+      "text": "Legal status of actions taken under this Act."
+    },
+    {
+      "id": "section-xv",
+      "heading": "Section XV — Presumption of Lawfulness",
+      "text": "All actions taken under this Act shall be presumed lawful unless explicitly revoked by Capitol authority."
+    },
+    {
+      "id": "section-xvi",
+      "heading": "Section XVI — Protection from Liability",
+      "text": "Peacekeepers and authorised personnel shall not be held personally liable for actions taken in accordance with this Act."
+    },
+    {
+      "id": "section-xvii",
+      "heading": "Section XVII — Internal Review",
+      "text": "The Capitol may review use-of-force incidents at its discretion. Such reviews shall not limit enforcement authority."
+    },
+
+    {
+      "id": "part-vii",
+      "heading": "Part VII — Interaction with Other Acts",
+      "text": "This Act operates within the wider legislative framework."
+    },
+    {
+      "id": "section-xviii",
+      "heading": "Section XVIII — Integration with Criminal Justice",
+      "text": "Use of force shall support arrests, detention, and enforcement under the Criminal Justice Act."
+    },
+    {
+      "id": "section-xix",
+      "heading": "Section XIX — Compliance Enforcement",
+      "text": "Force may be used to ensure compliance under the District Compliance Act."
+    },
+    {
+      "id": "section-xx",
+      "heading": "Section XX — Crisis Expansion",
+      "text": "During martial law or emergency conditions, restrictions on the use of force may be removed or expanded."
+    },
+
+    {
+      "id": "part-viii",
+      "heading": "Part VIII — Supremacy of Operational Necessity",
+      "text": "Operational need shall take priority in all decisions."
+    },
+    {
+      "id": "section-xxi",
+      "heading": "Section XXI — Priority of Order",
+      "text": "The restoration and maintenance of order shall take precedence over all other considerations."
+    },
+    {
+      "id": "section-xxii",
+      "heading": "Section XXII — Override of Limitations",
+      "text": "Any perceived limitation on the use of force may be set aside where necessary to protect Capitol authority."
+    },
+
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "Force is the instrument through which order is restored and maintained. When applied with authority and certainty, it ensures the continued stability of Panem. The Capitol commands. The Peacekeepers act. Order is preserved."
+    }
+  ]
+},
+{
+  "id": "CA-DML-001",
+  "title": "District Martial Law Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act authorising the declaration and enforcement of martial law within any District, granting full military control over civilian functions, suspending standard legal processes, and establishing enhanced enforcement powers to restore and maintain order.",
+  "text": "A Capitol Act authorising the declaration and enforcement of martial law within any District, granting full military control over civilian functions, suspending standard legal processes, and establishing enhanced enforcement powers to restore and maintain order.",
+  "tags": ["crisis", "martial-law", "military", "control", "emergency"],
+  "relatedActs": ["CA-ROE-001", "CA-CJA-001", "CA-COM-001"],
+  "overrides": ["CA-COM-001", "CA-PAR-001", "CA-CJA-001", "CA-TRS-001", "CA-ROE-001"],
+  "overriddenBy": ["CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment establishing martial law authority."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "When stability is threatened beyond the capacity of standard enforcement, the Capitol shall impose direct military control to restore order. This Act establishes the authority, scope, and execution of martial law within any District, ensuring that disruption, rebellion, or instability is met with immediate and overwhelming control."
+    },
+
+    {
+      "id": "part-i",
+      "heading": "Part I — Declaration of Martial Law",
+      "text": "This Part defines the authority and conditions under which martial law may be enacted."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Authority to Declare",
+      "text": "The Capitol may declare martial law within any District at its sole discretion, without requirement for justification, consultation, or prior notice."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Grounds for Declaration",
+      "text": "Martial law may be declared in response to unrest, rebellion, non-compliance, security threats, disruption of production, or any condition deemed detrimental to Capitol authority."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Scope of Application",
+      "text": "Martial law may apply to an entire District, multiple Districts, or specific zones as determined by the Capitol."
+    },
+
+    {
+      "id": "part-ii",
+      "heading": "Part II — Transfer of Authority",
+      "text": "This Part establishes the shift from civilian to military control."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Suspension of Civil Authority",
+      "text": "Upon declaration of martial law, all civilian governance structures shall be suspended or subordinated to military command."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Assumption of Military Control",
+      "text": "Military commanders shall assume full authority over all administrative, enforcement, and operational functions within the affected area."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Binding Nature of Orders",
+      "text": "All orders issued under martial law shall carry immediate legal force and must be obeyed without delay or question."
+    },
+
+    {
+      "id": "part-iii",
+      "heading": "Part III — Suspension of Legal Processes",
+      "text": "Standard legal protections and procedures may be suspended."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Suspension of Rights",
+      "text": "All civilian rights, protections, and procedural safeguards may be suspended for the duration of martial law."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Modification of Judicial Process",
+      "text": "Standard trial procedures under the Criminal Justice Act may be altered, expedited, or bypassed entirely."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Detention Without Limitation",
+      "text": "Individuals may be detained without charge, trial, or defined duration where deemed necessary."
+    },
+
+    {
+      "id": "part-iv",
+      "heading": "Part IV — Military Enforcement Powers",
+      "text": "Enhanced enforcement authority shall apply under martial law."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Expanded Use of Force",
+      "text": "All levels of force, including lethal force, may be applied without restriction where required to restore or maintain order."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Search and Seizure",
+      "text": "Military personnel may conduct searches, seizures, and inspections without warrant or prior authorisation."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Movement Control",
+      "text": "Curfews, checkpoints, travel restrictions, and population control measures may be imposed at any time."
+    },
+
+    {
+      "id": "part-v",
+      "heading": "Part V — Control of Population and Resources",
+      "text": "Full control over population and infrastructure shall be exercised."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Population Management",
+      "text": "Populations may be relocated, confined, or reassigned as necessary to maintain control."
+    },
+    {
+      "id": "section-xiv",
+      "heading": "Section XIV — Resource Commandeering",
+      "text": "All resources, facilities, and infrastructure may be seized or repurposed for military use."
+    },
+    {
+      "id": "section-xv",
+      "heading": "Section XV — Communication Control",
+      "text": "All communications may be restricted, monitored, or suspended."
+    },
+
+    {
+      "id": "part-vi",
+      "heading": "Part VI — Suppression of Threats",
+      "text": "Threats shall be neutralised decisively."
+    },
+    {
+      "id": "section-xvi",
+      "heading": "Section XVI — Identification of Threats",
+      "text": "Any individual or group suspected of disloyalty may be designated a threat."
+    },
+    {
+      "id": "section-xvii",
+      "heading": "Section XVII — Immediate Action",
+      "text": "Threats may be detained, removed, or neutralised without prior judicial process."
+    },
+
+    {
+      "id": "part-vii",
+      "heading": "Part VII — Duration and Termination",
+      "text": "Martial law shall remain in effect as determined by the Capitol."
+    },
+    {
+      "id": "section-xviii",
+      "heading": "Section XVIII — Duration",
+      "text": "Martial law shall remain active for as long as the Capitol deems necessary."
+    },
+    {
+      "id": "section-xix",
+      "heading": "Section XIX — Termination",
+      "text": "Martial law may be lifted or modified at the sole discretion of the Capitol."
+    },
+
+    {
+      "id": "part-viii",
+      "heading": "Part VIII — Interaction with Other Acts",
+      "text": "This Act overrides standard legislative provisions."
+    },
+    {
+      "id": "section-xx",
+      "heading": "Section XX — Legislative Override",
+      "text": "This Act shall override provisions within the District Compliance Act, Public Assembly Restriction Act, Criminal Justice Act, Treason and Sedition Act, and Rules of Engagement Act where necessary."
+    },
+    {
+      "id": "section-xxi",
+      "heading": "Section XXI — Relationship with Emergency Powers",
+      "text": "This Act shall operate beneath the authority of the Emergency Powers Act, which may further expand or replace its provisions."
+    },
+
+    {
+      "id": "part-ix",
+      "heading": "Part IX — Supremacy of Military Authority",
+      "text": "Military necessity shall take precedence."
+    },
+    {
+      "id": "section-xxii",
+      "heading": "Section XXII — Operational Priority",
+      "text": "All actions taken under martial law shall prioritise the restoration and maintenance of order above all other considerations."
+    },
+    {
+      "id": "section-xxiii",
+      "heading": "Section XXIII — Final Authority",
+      "text": "All decisions made under martial law shall be final unless altered by the Capitol."
+    },
+
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "When disorder rises, control must be absolute. Under martial law, the Capitol does not request compliance—it enforces it. Order is restored through strength, discipline, and decisive authority."
+    }
+  ]
+},
+{
+  "id": "CA-EPA-001",
+  "title": "Emergency Powers Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act granting the Capitol unrestricted authority to enact, suspend, override, or expand all laws and powers during times of emergency, ensuring absolute control over all aspects of governance, security, and population management within Panem.",
+  "text": "A Capitol Act granting the Capitol unrestricted authority to enact, suspend, override, or expand all laws and powers during times of emergency, ensuring absolute control over all aspects of governance, security, and population management within Panem.",
+  "tags": ["emergency", "override", "absolute", "authority", "crisis"],
+  "relatedActs": ["CA-SOV-001", "CA-DML-001", "CA-CJA-001"],
+  "overrides": [
+    "CA-SOV-001",
+    "CA-COM-001",
+    "CA-PAR-001",
+    "CA-TRS-001",
+    "CA-CJA-001",
+    "CA-ROE-001",
+    "CA-DML-001"
+  ],
+  "overriddenBy": [],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment establishing absolute emergency authority."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "In times of crisis, uncertainty, or instability, the survival of Panem requires decisive and unrestricted authority. This Act establishes the legal framework through which the Capitol may assume absolute control, ensuring that any threat to order, security, or governance is met with immediate and overwhelming response."
+    },
+
+    {
+      "id": "part-i",
+      "heading": "Part I — Declaration of Emergency",
+      "text": "This Part defines the authority and conditions under which emergency powers may be enacted."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Authority to Declare",
+      "text": "The Capitol may declare a state of emergency at its sole discretion, without requirement for justification, consultation, or external approval."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Grounds for Declaration",
+      "text": "An emergency may be declared in response to rebellion, civil unrest, economic disruption, security threats, natural events, or any condition deemed to threaten the stability or authority of the Capitol."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Scope of Emergency",
+      "text": "Emergency powers may be applied to the entirety of Panem, multiple Districts, or designated areas as determined by the Capitol."
+    },
+
+    {
+      "id": "part-ii",
+      "heading": "Part II — Expansion of Authority",
+      "text": "Emergency conditions grant expanded and unrestricted powers."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Absolute Authority",
+      "text": "Upon declaration, the Capitol shall possess unrestricted authority over all legislative, executive, military, and judicial functions."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Creation of Emergency Directives",
+      "text": "The Capitol may issue immediate directives carrying the full force of law without procedural limitation."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Centralised Command",
+      "text": "All governing bodies, military units, and enforcement agencies shall operate under unified Capitol command."
+    },
+
+    {
+      "id": "part-iii",
+      "heading": "Part III — Suspension and Override of Law",
+      "text": "All existing legal frameworks may be altered or suspended."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Suspension of Laws",
+      "text": "Any law, regulation, or directive within Panem may be suspended in whole or in part."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Override Authority",
+      "text": "The Capitol may override any provision of existing legislation without limitation."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Replacement Measures",
+      "text": "Suspended laws may be replaced with emergency directives tailored to the situation."
+    },
+
+    {
+      "id": "part-iv",
+      "heading": "Part IV — Control of Population and Society",
+      "text": "Emergency powers extend to full control of the population."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Movement and Assembly",
+      "text": "All movement, travel, and assembly may be restricted, controlled, or prohibited."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Population Management",
+      "text": "Populations may be relocated, confined, reassigned, or otherwise controlled."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Communication Control",
+      "text": "All communications may be monitored, restricted, altered, or suspended."
+    },
+
+    {
+      "id": "part-v",
+      "heading": "Part V — Enforcement and Use of Force",
+      "text": "Enforcement powers are expanded without limitation."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Use of Force",
+      "text": "All levels of force, including lethal force, may be used without restriction."
+    },
+    {
+      "id": "section-xiv",
+      "heading": "Section XIV — Detention Powers",
+      "text": "Individuals may be detained without charge, trial, or limitation of duration."
+    },
+    {
+      "id": "section-xv",
+      "heading": "Section XV — Immediate Action",
+      "text": "Actions necessary to neutralise threats may be taken without prior approval."
+    },
+
+    {
+      "id": "part-vi",
+      "heading": "Part VI — Control of Resources and Infrastructure",
+      "text": "All assets may be directed to support emergency operations."
+    },
+    {
+      "id": "section-xvi",
+      "heading": "Section XVI — Resource Allocation",
+      "text": "All resources, production, and infrastructure may be redirected under Capitol authority."
+    },
+    {
+      "id": "section-xvii",
+      "heading": "Section XVII — Seizure of Property",
+      "text": "Property, facilities, and assets may be seized without compensation."
+    },
+
+    {
+      "id": "part-vii",
+      "heading": "Part VII — Duration and Continuity",
+      "text": "Emergency powers remain in effect as determined by the Capitol."
+    },
+    {
+      "id": "section-xviii",
+      "heading": "Section XVIII — Duration",
+      "text": "A state of emergency shall remain active for as long as deemed necessary."
+    },
+    {
+      "id": "section-xix",
+      "heading": "Section XIX — Renewal and Expansion",
+      "text": "Emergency powers may be extended, expanded, or modified at any time."
+    },
+
+    {
+      "id": "part-viii",
+      "heading": "Part VIII — Supremacy of Emergency Authority",
+      "text": "Emergency authority overrides all other governance."
+    },
+    {
+      "id": "section-xx",
+      "heading": "Section XX — Total Override",
+      "text": "This Act shall override all other Acts, laws, and provisions within Panem."
+    },
+    {
+      "id": "section-xxi",
+      "heading": "Section XXI — Final Authority",
+      "text": "All decisions made under emergency powers shall be final and binding."
+    },
+
+    {
+      "id": "part-ix",
+      "heading": "Part IX — Relationship to Other Acts",
+      "text": "Defines interaction with existing legislation."
+    },
+    {
+      "id": "section-xxii",
+      "heading": "Section XXII — Integration",
+      "text": "This Act may incorporate, suspend, or replace provisions of any other Act."
+    },
+    {
+      "id": "section-xxiii",
+      "heading": "Section XXIII — Hierarchy",
+      "text": "All Acts, including the Capitol Sovereignty Act and District Martial Law Act, shall be subordinate to this Act during an emergency."
+    },
+
+    {
+      "id": "part-x",
+      "heading": "Part X — Permanence of Authority",
+      "text": "Emergency authority may extend indefinitely."
+    },
+    {
+      "id": "section-xxiv",
+      "heading": "Section XXIV — Indefinite Continuity",
+      "text": "Emergency powers shall not be subject to automatic expiration."
+    },
+    {
+      "id": "section-xxv",
+      "heading": "Section XXV — Revocation",
+      "text": "Emergency status may only be revoked by the Capitol."
+    },
+
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "In times of crisis, the Capitol becomes absolute. Law yields to necessity. Order is preserved through total authority. There are no limits—only the will of the Capitol and the survival of Panem."
+    }
+  ]
+},
+{
+  "id": "CA-PAR-001",
+  "title": "Public Assembly Restriction Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-04-12",
+  "summary": "A Capitol Act regulating, restricting, and controlling all forms of public assembly, gathering, and collective activity within Panem, establishing permit systems, enforcement authority, and penalties for unauthorised congregation.",
+  "text": "A Capitol Act regulating, restricting, and controlling all forms of public assembly, gathering, and collective activity within Panem, establishing permit systems, enforcement authority, and penalties for unauthorised congregation.",
+  "tags": ["assembly", "public-order", "control", "gatherings", "security"],
+  "relatedActs": ["CA-COM-001", "CA-ROE-001", "CA-TRS-001"],
+  "overrides": [],
+  "overriddenBy": ["CA-DML-001", "CA-EPA-001"],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "note": "Initial enactment restricting public assembly."
+    }
+  ],
+  "sections": [
+    {
+      "id": "foreword",
+      "heading": "Foreword",
+      "text": "Unregulated gatherings present a direct risk to order, stability, and Capitol authority. This Act establishes the legal framework for the control, limitation, and enforcement of all public assemblies within Panem. All collective activity shall exist only under Capitol approval and oversight."
+    },
+
+    {
+      "id": "part-i",
+      "heading": "Part I — Definition of Assembly",
+      "text": "This Part defines what constitutes an assembly under Capitol law."
+    },
+    {
+      "id": "section-i",
+      "heading": "Section I — Public Assembly",
+      "text": "A public assembly shall include any gathering of three or more individuals in a shared space for a common purpose, including discussion, demonstration, coordination, or collective presence."
+    },
+    {
+      "id": "section-ii",
+      "heading": "Section II — Forms of Assembly",
+      "text": "Assemblies shall include physical gatherings, organised events, demonstrations, processions, meetings, and any coordinated activity whether public or private in nature."
+    },
+
+    {
+      "id": "part-ii",
+      "heading": "Part II — Requirement for Authorisation",
+      "text": "All assemblies shall require prior approval."
+    },
+    {
+      "id": "section-iii",
+      "heading": "Section III — Permit Requirement",
+      "text": "No public assembly shall take place without a valid permit issued by the Capitol or an authorised District authority."
+    },
+    {
+      "id": "section-iv",
+      "heading": "Section IV — Conditions of Approval",
+      "text": "Permits may include restrictions on time, location, size, duration, and purpose. All conditions must be strictly adhered to."
+    },
+    {
+      "id": "section-v",
+      "heading": "Section V — Revocation of Permits",
+      "text": "Permits may be revoked at any time without notice where an assembly is deemed to present a risk to order or authority."
+    },
+
+    {
+      "id": "part-iii",
+      "heading": "Part III — Prohibited Assemblies",
+      "text": "Certain gatherings shall be unlawful under all circumstances."
+    },
+    {
+      "id": "section-vi",
+      "heading": "Section VI — Unauthorised Gatherings",
+      "text": "Any assembly conducted without valid authorisation shall be deemed unlawful and subject to immediate dispersal."
+    },
+    {
+      "id": "section-vii",
+      "heading": "Section VII — Seditious Gatherings",
+      "text": "Any assembly promoting dissent, resistance, or criticism of the Capitol shall be prohibited and treated as a threat under the Treason and Sedition Act."
+    },
+    {
+      "id": "section-viii",
+      "heading": "Section VIII — Risk-Based Prohibition",
+      "text": "Any gathering that may reasonably lead to unrest, disorder, or disruption may be prohibited regardless of stated intent."
+    },
+
+    {
+      "id": "part-iv",
+      "heading": "Part IV — Enforcement Powers",
+      "text": "Enforcement bodies shall possess authority to control and disperse assemblies."
+    },
+    {
+      "id": "section-ix",
+      "heading": "Section IX — Authority to Disperse",
+      "text": "Peacekeepers and authorised personnel may order the immediate dispersal of any assembly deemed unlawful or non-compliant."
+    },
+    {
+      "id": "section-x",
+      "heading": "Section X — Use of Force",
+      "text": "Force may be used to disperse assemblies in accordance with the Rules of Engagement Act."
+    },
+    {
+      "id": "section-xi",
+      "heading": "Section XI — Arrest Powers",
+      "text": "Participants in unlawful assemblies may be detained or arrested without warrant."
+    },
+
+    {
+      "id": "part-v",
+      "heading": "Part V — Duties and Responsibilities",
+      "text": "Individuals and organisers shall bear responsibility for compliance."
+    },
+    {
+      "id": "section-xii",
+      "heading": "Section XII — Responsibility of Organisers",
+      "text": "Organisers shall be responsible for ensuring full compliance with permit conditions and Capitol directives."
+    },
+    {
+      "id": "section-xiii",
+      "heading": "Section XIII — Duty to Disperse",
+      "text": "All individuals present at an unlawful assembly shall comply immediately with dispersal orders."
+    },
+
+    {
+      "id": "part-vi",
+      "heading": "Part VI — Penalties and Sanctions",
+      "text": "Violations shall result in enforcement action."
+    },
+    {
+      "id": "section-xiv",
+      "heading": "Section XIV — Individual Penalties",
+      "text": "Participants may face detention, fines, labour reassignment, or prosecution under the Criminal Justice Act."
+    },
+    {
+      "id": "section-xv",
+      "heading": "Section XV — Escalation to Treason",
+      "text": "Where assemblies are linked to dissent or resistance, offences may be escalated under the Treason and Sedition Act."
+    },
+    {
+      "id": "section-xvi",
+      "heading": "Section XVI — Collective Sanctions",
+      "text": "Groups, communities, or districts may face collective penalties for repeated violations."
+    },
+
+    {
+      "id": "part-vii",
+      "heading": "Part VII — Monitoring and Surveillance",
+      "text": "Assemblies shall be subject to continuous oversight."
+    },
+    {
+      "id": "section-xvii",
+      "heading": "Section XVII — Observation Authority",
+      "text": "The Capitol may monitor, record, and observe all assemblies regardless of authorisation status."
+    },
+    {
+      "id": "section-xviii",
+      "heading": "Section XVIII — Intelligence Gathering",
+      "text": "Information obtained from assemblies may be used for enforcement, investigation, or security purposes."
+    },
+
+    {
+      "id": "part-viii",
+      "heading": "Part VIII — Interaction with Other Acts",
+      "text": "This Act operates within the broader legal system."
+    },
+    {
+      "id": "section-xix",
+      "heading": "Section XIX — Compliance Enforcement",
+      "text": "This Act shall support enforcement under the District Compliance Act."
+    },
+    {
+      "id": "section-xx",
+      "heading": "Section XX — Use of Force Integration",
+      "text": "All enforcement actions shall align with the Rules of Engagement Act."
+    },
+    {
+      "id": "section-xxi",
+      "heading": "Section XXI — Crisis Override",
+      "text": "During martial law or emergency conditions, all restrictions may be expanded or replaced."
+    },
+
+    {
+      "id": "part-ix",
+      "heading": "Part IX — Supremacy of Public Order",
+      "text": "Public order shall take precedence over all gatherings."
+    },
+    {
+      "id": "section-xxii",
+      "heading": "Section XXII — Priority of Stability",
+      "text": "The maintenance of order and stability shall override any claim to assembly or gathering."
+    },
+    {
+      "id": "section-xxiii",
+      "heading": "Section XXIII — Final Authority",
+      "text": "All decisions regarding assemblies shall rest with the Capitol or its authorised agents."
+    },
+
+    {
+      "id": "closing-message",
+      "heading": "Closing Message",
+      "text": "Order is maintained through control. Gatherings without authority create instability. Stability preserves Panem. All assembly exists only by the will of the Capitol."
+     }
+    ]
+  }
 ]
