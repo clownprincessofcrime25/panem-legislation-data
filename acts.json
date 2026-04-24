@@ -13,7 +13,7 @@
       {
         "version": "1.0",
         "date": "2026-01-07",
-        "note": "Inditial enactment and issue oif the Capitol Civic Code"
+        "note": "Initial enactment and issue oif the Capitol Civic Code"
       }
     ],
     "sections": [
@@ -1646,7 +1646,7 @@
       "text": "Order is maintained through control. Gatherings without authority create instability. Stability preserves Panem. All assembly exists only by the will of the Capitol."
      }
     ]
-  }
+  },
   {
   "id": "CA-PA-001",
   "title": "Peacekeeper Authority Act",
@@ -1664,47 +1664,47 @@
       "text": "The Capitol, in its sovereign duty to maintain order, unity, and obedience across Panem, hereby establishes the Peacekeepers as the primary instrument of law enforcement and internal stability. This Act ensures that all Peacekeeper personnel operate with absolute authority, clarity of mandate, and full legal protection in the execution of their duties."
     },
     {
-      "id": "section-1",
+      "id": "section-i",
       "heading": "Section I – Establishment of Authority",
       "text": "1. The Peacekeepers are hereby recognised as the official law enforcement body of Panem.\n2. Peacekeepers shall operate under the authority of the Capitol Security Authority and Peacekeeper High Command.\n3. All Peacekeeper powers derive directly from the Constitution of Panem and applicable Capitol Acts.\n4. Peacekeeper authority shall supersede all District-level enforcement bodies and local governance structures."
     },
     {
-      "id": "section-2",
+      "id": "section-ii",
       "heading": "Section II – Policing Powers",
       "text": "1. Peacekeepers are granted full policing powers across all Districts.\n2. Such powers include, but are not limited to:\n   a. Arrest and detention of individuals suspected of violating Capitol law;\n   b. Search and seizure of persons, property, and communications;\n   c. Establishment of checkpoints, curfews, and restricted zones;\n   d. Enforcement of identification and movement controls;\n   e. Immediate intervention in any act deemed disruptive to order.\n3. No warrant shall be required where action is taken in the interest of Capitol security."
     },
     {
-      "id": "section-3",
+      "id": "section-iii",
       "heading": "Section III – Use of Force",
       "text": "1. Peacekeepers are authorised to use force as necessary to maintain or restore order.\n2. Force may be escalated proportionately up to and including lethal force where:\n   a. Resistance to Peacekeeper authority is encountered;\n   b. A threat to Capitol security or public order is identified;\n   c. Compliance cannot be achieved through lesser means.\n3. All use of force shall be deemed lawful where undertaken in good faith under this Act."
     },
     {
-      "id": "section-4",
+      "id": "section-iv",
       "heading": "Section IV – Jurisdiction and Operational Control",
       "text": "1. Peacekeeper jurisdiction extends across all Districts and Capitol territories without restriction.\n2. Peacekeepers may assume direct control over any District area where instability, disorder, or non-compliance is identified.\n3. District authorities shall comply immediately with all Peacekeeper directives.\n4. Peacekeeper operations shall not be subject to interference by civilian or District officials."
     },
     {
-      "id": "section-5",
+      "id": "section-v",
       "heading": "Section V – Detention and Processing",
       "text": "1. Peacekeepers may detain individuals for investigation, processing, or transfer.\n2. Detention may occur without charge for a duration deemed operationally necessary.\n3. Individuals may be transferred to Capitol-controlled facilities or State Security custody where required.\n4. Records of detention shall be maintained in accordance with Capitol data systems."
     },
     {
-      "id": "section-6",
+      "id": "section-vi",
       "heading": "Section VI – Immunity and Legal Protection",
       "text": "1. Peacekeepers shall be granted full legal immunity for actions undertaken within the scope of their authority.\n2. No Peacekeeper shall be subject to District-level prosecution or civil action.\n3. Oversight, where applicable, shall be conducted solely by Capitol authorities.\n4. Any obstruction of Peacekeeper duties shall constitute a criminal offence under Capitol law."
     },
     {
-      "id": "section-7",
+      "id": "section-vii",
       "heading": "Section VII – Coordination with State Security",
       "text": "1. Peacekeepers shall cooperate fully with State Security divisions in matters of intelligence, counter-insurgency, and internal surveillance.\n2. Where directed, Peacekeepers shall support operations conducted under the Capitol Secrets and State Security Act (CA-SEC-001).\n3. State Security directives shall take precedence in classified or high-threat operations."
     },
     {
-      "id": "section-8",
+      "id": "section-viii",
       "heading": "Section VIII – Enforcement of Capitol Law",
       "text": "1. Peacekeepers are responsible for enforcing all Capitol Acts, Orders, and Directives.\n2. Failure to comply with Peacekeeper instructions shall be treated as non-compliance with Capitol authority.\n3. Peacekeepers may issue immediate penalties, detentions, or corrective measures as required."
     },
     {
-      "id": "section-9",
+      "id": "section-ix",
       "heading": "Section IX – Final Authority Clause",
       "text": "1. This Act affirms the absolute authority of Peacekeepers as the enforcement arm of the Capitol.\n2. In any conflict of law, Peacekeeper directives issued under this Act shall prevail.\n3. This Act shall be interpreted in favour of maintaining order, stability, and Capitol supremacy."
     }
@@ -1721,5 +1721,5 @@
       "relation": "Coordination with State Security operations and classified enforcement"
       }
     ]
-  },  
+  }  
 ] 
