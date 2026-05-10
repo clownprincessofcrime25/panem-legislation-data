@@ -1721,5 +1721,1270 @@
       "relation": "Coordination with State Security operations and classified enforcement"
       }
     ]
+  },  
+  {
+  "id": "CA-CUL-001",
+  "title": "Mandatory Founder Portrait Display Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing the mandatory display, preservation, protection, and ceremonial maintenance of authorised Founder portraits and approved Capitol leadership imagery throughout Panem in order to reinforce civic unity, national loyalty, and reverence toward the authority of the Capitol.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Capitol Culture and Civic Compliance",
+  "enforcementAgency": [
+    "Peacekeeper Authority",
+    "Ministry of Civic Harmony",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Written Civic Warning and mandatory corrective compliance inspection.",
+    "moderateViolation": "Temporary ration reduction, compulsory civic re-education assignment, or public compliance citation.",
+    "severeViolation": "Detainment, ideological investigation, or prosecution under applicable State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Mandatory Founder Portrait Display Act."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Mandatory Founder Portrait Display Act."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Importance",
+      "text": "The purpose of this Act is to preserve visible national unity, reinforce reverence toward the Founders of Panem, strengthen civic identity, and ensure the continued symbolic presence of Capitol authority throughout all territories, institutions, facilities, and residences operating under the jurisdiction of Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Founder Portrait' shall mean any officially approved portrait, image, holographic display, banner, or authorised representation of the Founders of Panem or such Capitol leadership figures designated by the Capitol Legislature or Ministry of Civic Harmony. 'Public Facility' shall include all schools, transportation terminals, industrial sites, administrative offices, District halls, Peacekeeper facilities, and state-regulated premises."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Display Requirements",
+      "text": "All residential properties, public facilities, educational institutions, government offices, transportation centres, industrial compounds, and authorised commercial establishments shall prominently display at least one approved Founder Portrait in a visible and unobstructed location as determined by regulations issued under this Act."
+    },
+    {
+      "id": "section-5",
+      "heading": "Standards of Presentation",
+      "text": "Founder Portraits displayed under this Act shall be maintained in a clean, undamaged, illuminated, and respectful condition at all times. No portrait shall be defaced, obstructed, altered, covered, poorly maintained, or displayed in a manner deemed disrespectful to the authority of the Capitol."
+    },
+    {
+      "id": "section-6",
+      "heading": "Inspection Authority",
+      "text": "Authorised Peacekeeper personnel, Civic Compliance Officers, and designated representatives of Panem State Security may conduct inspections of premises, facilities, and public environments for the purposes of ensuring compliance with this Act."
+    },
+    {
+      "id": "section-7",
+      "heading": "Acts of Disrespect and Defacement",
+      "text": "Any individual who intentionally damages, removes, conceals, destroys, mocks, vandalises, desecrates, or publicly disrespects an authorised Founder Portrait shall commit a serious offence against the authority and unity of Panem."
+    },
+    {
+      "id": "section-8",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens, facility supervisors, educators, Peacekeeper personnel, and state employees possessing knowledge of violations under this Act shall report such violations to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-9",
+      "heading": "Educational Compliance",
+      "text": "All state-approved educational institutions shall provide instruction concerning the national importance of the Founders of Panem and the civic obligations established under this Act."
+    },
+    {
+      "id": "section-10",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue supplemental directives, approved portrait standards, ceremonial presentation requirements, lighting requirements, inspection procedures, and additional regulations necessary for the implementation and enforcement of this Act."
+    },
+    {
+      "id": "section-11",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in corrective compliance measures, ration restrictions, civic penalties, compulsory ideological instruction, detainment, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and frequency of the violation."
+    },
+    {
+      "id": "section-12",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-INF-001",
+  "title": "Capitol Broadcast Attendance Law",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing mandatory citizen attendance and participation requirements for official Capitol broadcasts, emergency transmissions, national addresses, and authorised public information programmes in order to preserve national unity, ensure information consistency, and reinforce civic loyalty throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Information Control and Civic Compliance",
+  "enforcementAgency": [
+    "Peacekeeper Authority",
+    "Ministry of Civic Harmony",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Formal Civic Warning and mandatory attendance review.",
+    "moderateViolation": "Temporary ration reduction, public compliance citation, or compulsory civic instruction.",
+    "severeViolation": "Detainment, ideological investigation, or prosecution under applicable State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "acts:CA-CUL-001",
+      "label": "Mandatory Founder Portrait Display Act"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Capitol Broadcast Attendance Law."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Capitol Broadcast Attendance Law."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Importance",
+      "text": "The purpose of this Act is to ensure the uninterrupted distribution of official Capitol information, preserve national unity, reinforce public loyalty to Panem, and maintain information discipline throughout all Districts and territories operating under Capitol authority."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Official Capitol Broadcast' shall mean any speech, emergency transmission, public information programme, Founder address, Victory broadcast, wartime announcement, ceremonial transmission, or communication authorised by the Capitol Legislature, Ministry of Civic Harmony, or designated state authority. 'Attendance Zone' shall mean any public or designated area in which citizens are required to assemble for broadcast viewing."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Attendance Requirements",
+      "text": "All citizens present within an operational Attendance Zone shall attend and remain present during Official Capitol Broadcasts unless exempted by authorised medical, operational, military, or emergency necessity."
+    },
+    {
+      "id": "section-5",
+      "heading": "Public Broadcast Assemblies",
+      "text": "District administrations, educational institutions, workplaces, transportation centres, and industrial facilities may be directed to suspend ordinary operations during designated Official Capitol Broadcasts in order to facilitate mandatory attendance and civic participation."
+    },
+    {
+      "id": "section-6",
+      "heading": "Standards of Conduct During Broadcasts",
+      "text": "Citizens attending Official Capitol Broadcasts shall conduct themselves in a respectful, orderly, attentive, and compliant manner. Sleeping, disruptive conduct, unauthorised departure, obstruction of viewing areas, intentional inattentiveness, or acts interpreted as public disrespect toward Capitol authority shall constitute violations under this Act."
+    },
+    {
+      "id": "section-7",
+      "heading": "Broadcast Equipment Protection",
+      "text": "No individual shall interfere with, damage, disable, obstruct, tamper with, or unlawfully access any Capitol broadcasting equipment, transmission infrastructure, public display system, communication relay, or authorised state information network."
+    },
+    {
+      "id": "section-8",
+      "heading": "Attendance Monitoring and Verification",
+      "text": "Peacekeeper personnel, Civic Compliance Officers, educational administrators, workplace supervisors, and authorised state representatives may conduct attendance verification procedures, identity checks, and behavioural monitoring during Official Capitol Broadcasts."
+    },
+    {
+      "id": "section-9",
+      "heading": "Unauthorised Information Suppression",
+      "text": "No citizen or organisation shall distribute information, commentary, visual material, recordings, or public statements intended to undermine, distort, ridicule, contradict, or interfere with Official Capitol Broadcasts."
+    },
+    {
+      "id": "section-10",
+      "heading": "Educational and Youth Participation",
+      "text": "All state-approved educational institutions shall ensure student attendance during designated Official Capitol Broadcasts and provide civic instruction concerning the importance of national information unity and obedience to Capitol authority."
+    },
+    {
+      "id": "section-11",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Peacekeeper Authority, Ministry of Civic Harmony, and Panem State Security shall possess full authority to enforce this Act, conduct investigations, monitor compliance, issue directives, and detain individuals suspected of serious or repeated violations."
+    },
+    {
+      "id": "section-12",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in attendance sanctions, ration restrictions, civic penalties, compulsory ideological instruction, detainment, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and frequency of the offence."
+    },
+    {
+      "id": "section-13",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue additional directives, attendance regulations, ceremonial procedures, broadcast schedules, behavioural standards, and operational guidance necessary for the implementation and enforcement of this Act."
+    },
+    {
+      "id": "section-14",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-ORD-002",
+  "title": "Unauthorised Gathering Prevention Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing restrictions on unauthorised assemblies, gatherings, demonstrations, and organised public congregation in order to preserve public order, prevent civil instability, protect Capitol authority, and support national security operations throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Public Order and Civil Control",
+  "enforcementAgency": [
+    "Peacekeeper Authority",
+    "District Security Commands",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Public order citation, dispersal directive, or temporary detention for identity verification.",
+    "moderateViolation": "Ration restrictions, compulsory civic compliance instruction, or formal loyalty review.",
+    "severeViolation": "Arrest, detainment, or prosecution under applicable public order and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "orders:PO-SEC-003",
+      "label": "Curfew Silence Enforcement Order"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Unauthorised Gathering Prevention Act."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Unauthorised Gathering Prevention Act."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Security Objectives",
+      "text": "The purpose of this Act is to preserve public order, prevent unlawful assembly, reduce risks of organised civil disruption, support Peacekeeper operational authority, and maintain national stability throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Gathering' shall mean any assembly, congregation, demonstration, meeting, procession, rally, organised event, or collective presence involving multiple individuals within a public or regulated environment. 'Unauthorised Gathering' shall mean any Gathering conducted without approval from the appropriate Capitol, District, or Peacekeeper authority."
+    },
+    {
+      "id": "section-4",
+      "heading": "Restriction on Unauthorised Gatherings",
+      "text": "No individual or group shall organise, participate in, promote, facilitate, or remain present within an Unauthorised Gathering within the jurisdiction of Panem."
+    },
+    {
+      "id": "section-5",
+      "heading": "Assembly Thresholds",
+      "text": "Any public congregation exceeding the assembly threshold established by Peacekeeper High Command or District Security authorities may be designated an Unauthorised Gathering unless explicit approval has been granted."
+    },
+    {
+      "id": "section-6",
+      "heading": "Permit and Approval Requirements",
+      "text": "Applications for public assemblies, ceremonial events, organised meetings, labour gatherings, civic activities, or public processions shall require prior approval from the appropriate Capitol or Peacekeeper authority in accordance with regulations issued under this Act."
+    },
+    {
+      "id": "section-7",
+      "heading": "Prohibited Conduct",
+      "text": "No Gathering shall engage in chanting, coordinated messaging, anti-Capitol speech, public disorder, obstruction of transport infrastructure, dissemination of unauthorised information, concealment of participant identities, or conduct deemed threatening to public order or Capitol authority."
+    },
+    {
+      "id": "section-8",
+      "heading": "Peacekeeper Dispersal Authority",
+      "text": "Peacekeeper personnel shall possess full authority to disperse, restrict, contain, monitor, isolate, or terminate any Unauthorised Gathering and may issue mandatory compliance orders to all persons present."
+    },
+    {
+      "id": "section-9",
+      "heading": "Identity Verification and Detention Powers",
+      "text": "Authorised Peacekeeper personnel and Panem State Security officers may conduct identity verification procedures, temporary detainment operations, searches, surveillance measures, and investigative questioning in relation to suspected violations under this Act."
+    },
+    {
+      "id": "section-10",
+      "heading": "Restricted Locations",
+      "text": "Gatherings shall be prohibited within designated security zones, transportation centres, industrial compounds, communication facilities, Peacekeeper installations, state-controlled infrastructure, and such additional areas determined by the Capitol or Peacekeeper High Command."
+    },
+    {
+      "id": "section-11",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens possessing knowledge of planned Unauthorised Gatherings, civil disturbances, unlawful assemblies, or anti-Capitol organisational activity shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-12",
+      "heading": "Educational and Workplace Compliance",
+      "text": "Educational institutions, industrial supervisors, workplace administrators, and District authorities shall maintain internal controls designed to prevent unlawful assembly activity and shall cooperate fully with Peacekeeper enforcement operations."
+    },
+    {
+      "id": "section-13",
+      "heading": "Emergency Security Measures",
+      "text": "During periods of civil unrest, insurrection risk, emergency conditions, or elevated State Security threat levels, Peacekeeper High Command may impose temporary assembly prohibitions, movement restrictions, checkpoint operations, or district-wide public congregation bans."
+    },
+    {
+      "id": "section-14",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in dispersal measures, detention, ration restrictions, civic penalties, compulsory ideological instruction, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the offence."
+    },
+    {
+      "id": "section-15",
+      "heading": "Regulatory Authority",
+      "text": "The Peacekeeper Authority, Ministry of Civic Harmony, and Panem State Security may issue supplemental directives, operational regulations, assembly thresholds, permit procedures, and enforcement guidance necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-16",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-CUL-002",
+  "title": "Capitol Calendar Compliance Law",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing the exclusive authority of the Capitol over recognised calendars, national observances, civic commemorations, ceremonial schedules, and authorised dates of public significance throughout Panem in order to preserve national unity, historical consistency, and cultural loyalty to the Capitol.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Cultural Governance and Civic Compliance",
+  "enforcementAgency": [
+    "Ministry of Civic Harmony",
+    "Peacekeeper Authority",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Formal Civic Warning or mandatory cultural compliance instruction.",
+    "moderateViolation": "Ration restrictions, public compliance citation, or ideological review.",
+    "severeViolation": "Detainment, cultural suppression enforcement measures, or prosecution under applicable Capitol and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "acts:CA-INF-001",
+      "label": "Capitol Broadcast Attendance Law"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Capitol Calendar Compliance Law."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Capitol Calendar Compliance Law."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Cultural Objectives",
+      "text": "The purpose of this Act is to preserve cultural unity, maintain historical consistency, reinforce Capitol identity, regulate national commemorative practices, and ensure the exclusive authority of the Capitol over recognised civic observances and ceremonial schedules throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Official Capitol Calendar' shall mean the nationally recognised civic and ceremonial calendar authorised by the Capitol Legislature. 'Unauthorised Observance' shall mean any holiday, memorial, anniversary, festival, cultural gathering, religious event, or commemorative activity not approved by the Capitol."
+    },
+    {
+      "id": "section-4",
+      "heading": "Exclusive Capitol Calendar Authority",
+      "text": "The Capitol shall possess exclusive authority to establish, amend, suspend, recognise, or abolish all nationally recognised holidays, commemorative dates, remembrance events, civic observances, ceremonial periods, and public celebrations within the jurisdiction of Panem."
+    },
+    {
+      "id": "section-5",
+      "heading": "Mandatory Use of the Official Capitol Calendar",
+      "text": "All government institutions, educational facilities, workplaces, transportation systems, industrial operations, public communications networks, and authorised organisations shall utilise the Official Capitol Calendar for all civic, administrative, ceremonial, and operational purposes."
+    },
+    {
+      "id": "section-6",
+      "heading": "Restriction on Unauthorised Observances",
+      "text": "No individual, organisation, workplace, educational institution, or District authority shall organise, promote, participate in, commemorate, or publicly recognise any Unauthorised Observance without express approval from the Ministry of Civic Harmony or other authorised Capitol authority."
+    },
+    {
+      "id": "section-7",
+      "heading": "Historical and Cultural Standardisation",
+      "text": "The Ministry of Civic Harmony may issue official historical narratives, commemorative guidance, ceremonial directives, authorised remembrance materials, and educational standards concerning nationally recognised dates and events."
+    },
+    {
+      "id": "section-8",
+      "heading": "Mandatory Participation in National Observances",
+      "text": "Citizens, educational institutions, workplaces, and District administrations may be required to participate in official national observances, Founder commemorations, remembrance ceremonies, loyalty events, Victory celebrations, and other state-authorised civic activities."
+    },
+    {
+      "id": "section-9",
+      "heading": "Restriction on Unauthorised Symbols and Traditions",
+      "text": "The display, promotion, or public use of unauthorised ceremonial symbols, prohibited historical references, restricted cultural traditions, or unapproved commemorative materials during public observances shall constitute a violation under this Act."
+    },
+    {
+      "id": "section-10",
+      "heading": "Educational Compliance Requirements",
+      "text": "All state-approved educational institutions shall provide instruction concerning the Official Capitol Calendar, nationally recognised observances, Founder commemorations, and the civic importance of unified national identity under Capitol authority."
+    },
+    {
+      "id": "section-11",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Ministry of Civic Harmony, Peacekeeper Authority, and Panem State Security shall possess authority to monitor public observances, inspect organised events, investigate suspected cultural violations, and enforce compliance with this Act."
+    },
+    {
+      "id": "section-12",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens, educators, workplace supervisors, administrators, and District officials possessing knowledge of planned or ongoing Unauthorised Observances shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-13",
+      "heading": "Emergency Suspension Powers",
+      "text": "During periods of civil unrest, emergency status, insurrection risk, or elevated national security conditions, the Capitol may suspend, modify, postpone, or prohibit public observances and ceremonial activities as necessary to preserve national stability."
+    },
+    {
+      "id": "section-14",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in cultural compliance sanctions, ration restrictions, compulsory ideological instruction, detention, civic penalties, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the violation."
+    },
+    {
+      "id": "section-15",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue supplemental directives, ceremonial schedules, approved observance lists, commemorative regulations, enforcement guidance, and cultural compliance procedures necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-16",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-MOV-001",
+  "title": "District Travel Justification Requirement",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing mandatory travel authorisation, movement justification, identity verification, and inter-district transit controls in order to preserve national security, maintain District stability, regulate civilian movement, and support Capitol oversight throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Movement Control and National Security",
+  "enforcementAgency": [
+    "Peacekeeper Authority",
+    "Panem State Security",
+    "Ministry of Transit and Infrastructure"
+  ],
+  "penalties": {
+    "minorViolation": "Movement restriction warning, temporary detainment, or travel compliance review.",
+    "moderateViolation": "Revocation of travel privileges, ration restrictions, or compulsory civic compliance instruction.",
+    "severeViolation": "Arrest, extended detainment, or prosecution under applicable Capitol and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "acts:CA-ORD-002",
+      "label": "Unauthorised Gathering Prevention Act"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the District Travel Justification Requirement."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the District Travel Justification Requirement."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Security Objectives",
+      "text": "The purpose of this Act is to regulate civilian movement, preserve District stability, strengthen border control operations, prevent unlawful transit activity, support Peacekeeper enforcement operations, and maintain national security oversight throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Inter-District Travel' shall mean any movement between District jurisdictions, Capitol territories, restricted operational zones, or controlled transit sectors. 'Travel Authorisation' shall mean any permit, clearance, transit approval, movement credential, or operational pass issued by an authorised Capitol authority."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Travel Authorisation",
+      "text": "No citizen shall engage in Inter-District Travel without possession of valid Travel Authorisation issued by the appropriate Capitol, Peacekeeper, or authorised transit authority."
+    },
+    {
+      "id": "section-5",
+      "heading": "Travel Justification Requirements",
+      "text": "Applications for Travel Authorisation shall include sufficient justification for movement, including employment assignment, industrial transfer, authorised family relocation, state operational necessity, medical requirement, educational assignment, military instruction, or such additional purposes approved by the Capitol."
+    },
+    {
+      "id": "section-6",
+      "heading": "Identity Verification Obligations",
+      "text": "All individuals undertaking Inter-District Travel shall carry approved identification credentials, biometric verification documentation, transit permits, and any additional operational clearance required by Peacekeeper or State Security authorities."
+    },
+    {
+      "id": "section-7",
+      "heading": "Checkpoint and Inspection Authority",
+      "text": "Peacekeeper personnel, transit enforcement officers, and authorised Panem State Security representatives may establish checkpoints, conduct searches, verify documentation, inspect cargo, question travellers, and detain individuals suspected of violating this Act."
+    },
+    {
+      "id": "section-8",
+      "heading": "Restricted Zones and Controlled Areas",
+      "text": "The Capitol may designate transportation corridors, rail systems, industrial sectors, military regions, communication infrastructure, and operational security areas as restricted zones requiring elevated travel clearance or prohibiting civilian access entirely."
+    },
+    {
+      "id": "section-9",
+      "heading": "Prohibited Conduct",
+      "text": "No individual shall forge, alter, duplicate, conceal, misuse, transfer, or unlawfully obtain Travel Authorisation documentation or otherwise assist unauthorised movement in violation of this Act."
+    },
+    {
+      "id": "section-10",
+      "heading": "Transport Operator Obligations",
+      "text": "Rail operators, transit personnel, cargo supervisors, transportation administrators, and authorised transport providers shall verify traveller compliance, maintain movement records, cooperate with inspections, and report suspicious movement activity to the appropriate authorities."
+    },
+    {
+      "id": "section-11",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens possessing knowledge of unauthorised travel activity, forged movement documentation, smuggling operations, checkpoint evasion, or unlawful transit conduct shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-12",
+      "heading": "Emergency Movement Restrictions",
+      "text": "During periods of civil unrest, insurrection risk, wartime conditions, industrial emergencies, or elevated State Security threat levels, the Capitol and Peacekeeper High Command may impose enhanced movement restrictions, district lockdowns, transportation suspensions, or temporary border closures."
+    },
+    {
+      "id": "section-13",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Peacekeeper Authority, Panem State Security, and Ministry of Transit and Infrastructure shall possess authority to investigate violations, suspend travel permissions, monitor transit systems, enforce movement controls, and implement operational directives necessary for the administration of this Act."
+    },
+    {
+      "id": "section-14",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in travel suspension, detention, ration restrictions, confiscation of movement credentials, compulsory ideological instruction, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the offence."
+    },
+    {
+      "id": "section-15",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Transit and Infrastructure, Peacekeeper Authority, and Panem State Security may issue supplemental directives, checkpoint procedures, transit regulations, permit classifications, biometric verification standards, and enforcement guidance necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-16",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-CUL-003",
+  "title": "Prohibited Music & Lyrics Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing restrictions on prohibited musical content, unauthorised lyrical expression, subversive performances, and unlawful cultural dissemination in order to preserve national unity, protect Capitol authority, and prevent the spread of destabilising or anti-Capitol influence throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Cultural Control and Information Security",
+  "enforcementAgency": [
+    "Ministry of Civic Harmony",
+    "Peacekeeper Authority",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Confiscation of prohibited material, formal civic warning, or mandatory ideological instruction.",
+    "moderateViolation": "Ration restrictions, performance prohibition, detention, or cultural compliance review.",
+    "severeViolation": "Arrest, extended detainment, or prosecution under applicable Capitol and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-INF-001",
+      "label": "Capitol Broadcast Attendance Law"
+    },
+    {
+      "target": "acts:CA-CUL-002",
+      "label": "Capitol Calendar Compliance Law"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Prohibited Music & Lyrics Act."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Prohibited Music & Lyrics Act."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and Cultural Security Objectives",
+      "text": "The purpose of this Act is to preserve national cultural discipline, regulate public artistic expression, prevent ideological contamination, protect Capitol authority, and suppress the dissemination of destabilising or anti-Capitol influence through musical or lyrical content."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Prohibited Content' shall mean any musical composition, lyrical expression, spoken performance, rhythmic transmission, recording, broadcast, or artistic presentation deemed harmful to public order, Capitol authority, national unity, or State Security interests. 'Unauthorised Performance' shall mean any public or organised musical activity conducted without approval from the appropriate Capitol authority."
+    },
+    {
+      "id": "section-4",
+      "heading": "Restriction on Prohibited Musical Content",
+      "text": "No individual or organisation shall compose, perform, distribute, possess, transmit, broadcast, reproduce, or publicly present Prohibited Content within the jurisdiction of Panem."
+    },
+    {
+      "id": "section-5",
+      "heading": "Prohibited Themes and Expressions",
+      "text": "Musical or lyrical content containing anti-Capitol messaging, rebellion advocacy, civil unrest encouragement, unauthorised political expression, restricted historical references, prohibited cultural symbolism, unlawful assembly promotion, or themes deemed damaging to public morale or national stability shall be prohibited."
+    },
+    {
+      "id": "section-6",
+      "heading": "Restriction on Unauthorised Performances",
+      "text": "No public musical gathering, performance, recital, concert, broadcast, or organised cultural event shall occur without approval from the Ministry of Civic Harmony or such authorised authority designated under this Act."
+    },
+    {
+      "id": "section-7",
+      "heading": "Approved Cultural Standards",
+      "text": "The Ministry of Civic Harmony may establish approved musical standards, patriotic performance programmes, authorised lyrical guidance, ceremonial compositions, and state-sanctioned cultural material intended to reinforce loyalty, unity, and obedience to the Capitol."
+    },
+    {
+      "id": "section-8",
+      "heading": "Broadcast and Distribution Restrictions",
+      "text": "No communication network, educational institution, workplace, entertainment venue, transportation system, or broadcasting platform shall transmit or distribute Prohibited Content or facilitate access to unlawful musical material."
+    },
+    {
+      "id": "section-9",
+      "heading": "Inspection and Confiscation Authority",
+      "text": "Peacekeeper personnel, Cultural Compliance Officers, and authorised Panem State Security representatives may inspect venues, communications systems, recording devices, public events, educational facilities, and private property where reasonable suspicion exists of violations under this Act."
+    },
+    {
+      "id": "section-10",
+      "heading": "Educational and Youth Restrictions",
+      "text": "All educational institutions and youth programmes operating within Panem shall prohibit access to unauthorised musical material and shall provide instruction concerning approved patriotic cultural standards and civic loyalty obligations."
+    },
+    {
+      "id": "section-11",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens possessing knowledge of Prohibited Content, unlawful performances, unauthorised broadcasts, illegal recordings, or anti-Capitol cultural activity shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-12",
+      "heading": "Emergency Cultural Suppression Powers",
+      "text": "During periods of civil unrest, insurrection risk, wartime conditions, or elevated State Security threat levels, the Capitol may suspend public performances, restrict cultural activity, prohibit musical gatherings, or impose emergency censorship measures deemed necessary for the preservation of national stability."
+    },
+    {
+      "id": "section-13",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Ministry of Civic Harmony, Peacekeeper Authority, and Panem State Security shall possess authority to investigate violations, conduct seizures, monitor cultural activity, suspend performance permissions, and enforce all provisions established under this Act."
+    },
+    {
+      "id": "section-14",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in confiscation of materials, detention, ration restrictions, cultural compliance sanctions, compulsory ideological instruction, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the offence."
+    },
+    {
+      "id": "section-15",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue supplemental directives, approved cultural standards, lyrical review procedures, performance licensing requirements, censorship guidance, and enforcement regulations necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-16",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-SEC-004",
+  "title": "Citizen Loyalty Reporting Duty",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing mandatory civic reporting obligations concerning disloyal conduct, anti-Capitol activity, security threats, prohibited communications, and behaviour deemed harmful to the authority, stability, or national interests of Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "State Security and Civic Enforcement",
+  "enforcementAgency": [
+    "Panem State Security",
+    "Peacekeeper Authority",
+    "Ministry of Civic Harmony"
+  ],
+  "penalties": {
+    "minorViolation": "Formal loyalty warning or compulsory civic compliance instruction.",
+    "moderateViolation": "Ration restrictions, ideological review, or temporary detainment.",
+    "severeViolation": "Arrest, extended detainment, or prosecution under applicable State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    },
+    {
+      "target": "acts:CA-ORD-002",
+      "label": "Unauthorised Gathering Prevention Act"
+    },
+    {
+      "target": "acts:CA-CUL-003",
+      "label": "Prohibited Music & Lyrics Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Citizen Loyalty Reporting Duty."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Citizen Loyalty Reporting Duty."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Security Objectives",
+      "text": "The purpose of this Act is to reinforce civic loyalty, strengthen internal security operations, preserve national unity, prevent anti-Capitol activity, and ensure that all citizens contribute actively to the protection and stability of Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Reportable Conduct' shall mean any activity, communication, possession, association, statement, behaviour, or circumstance reasonably suspected of undermining Capitol authority, public order, national unity, or State Security interests. 'Reporting Authority' shall mean Panem State Security, the Peacekeeper Authority, or any authorised state representative designated under this Act."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Duty to Report",
+      "text": "All citizens possessing knowledge, suspicion, or reasonable concern regarding Reportable Conduct shall report such information to the appropriate Reporting Authority without unreasonable delay."
+    },
+    {
+      "id": "section-5",
+      "heading": "Examples of Reportable Conduct",
+      "text": "Reportable Conduct shall include, but shall not be limited to, anti-Capitol speech, unlawful gatherings, prohibited cultural activity, unauthorised travel, concealment of restricted materials, dissemination of false information, sabotage activity, possession of prohibited communications equipment, evasion of Peacekeeper authority, or expressions of sympathy toward insurrectionist movements."
+    },
+    {
+      "id": "section-6",
+      "heading": "Restriction on Concealment and Assistance",
+      "text": "No individual shall knowingly conceal, protect, shelter, assist, encourage, or fail to disclose any person engaged in Reportable Conduct or otherwise interfere with the lawful operations of Reporting Authorities."
+    },
+    {
+      "id": "section-7",
+      "heading": "Confidentiality and Protected Reporting",
+      "text": "Reporting Authorities may classify reports, protect the identity of cooperating citizens, and implement confidential reporting systems necessary to support national security operations and civic compliance objectives."
+    },
+    {
+      "id": "section-8",
+      "heading": "Educational and Workplace Compliance",
+      "text": "Educational institutions, industrial facilities, workplaces, transportation authorities, and District administrations shall maintain internal reporting procedures and cooperate fully with Reporting Authorities in the enforcement of this Act."
+    },
+    {
+      "id": "section-9",
+      "heading": "Youth Civic Participation",
+      "text": "State-approved youth programmes and educational institutions may provide civic instruction concerning the importance of loyalty reporting, national vigilance, and cooperation with Capitol security authorities."
+    },
+    {
+      "id": "section-10",
+      "heading": "Investigation and Surveillance Authority",
+      "text": "Panem State Security and authorised Peacekeeper personnel may conduct investigations, interviews, surveillance operations, inspections, intelligence collection activities, and detainment procedures in relation to suspected violations under this Act."
+    },
+    {
+      "id": "section-11",
+      "heading": "False Reporting Restrictions",
+      "text": "No individual shall knowingly submit false reports intended to obstruct security operations, manipulate enforcement activity, or maliciously implicate another citizen without reasonable basis."
+    },
+    {
+      "id": "section-12",
+      "heading": "Emergency Security Escalation",
+      "text": "During periods of civil unrest, insurrection risk, wartime conditions, or elevated State Security threat levels, Reporting Authorities may impose enhanced reporting obligations, mandatory interviews, expanded surveillance operations, or emergency security directives deemed necessary for the preservation of national stability."
+    },
+    {
+      "id": "section-13",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "Panem State Security, the Peacekeeper Authority, and authorised Capitol representatives shall possess authority to enforce this Act, issue directives, compel cooperation, review loyalty records, and implement investigative measures necessary for the administration of this Act."
+    },
+    {
+      "id": "section-14",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in loyalty sanctions, detention, ration restrictions, compulsory ideological instruction, civic penalties, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the offence."
+    },
+    {
+      "id": "section-15",
+      "heading": "Regulatory Authority",
+      "text": "Panem State Security and the Ministry of Civic Harmony may issue supplemental directives, reporting procedures, intelligence coordination standards, confidentiality measures, and enforcement guidance necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-16",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-CUL-004",
+  "title": "State Mourning Compliance Law",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing mandatory behavioural, ceremonial, and public conduct requirements during officially declared periods of State Mourning in order to preserve national unity, demonstrate collective loyalty to the Capitol, and maintain public order throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Cultural Governance and Civic Conduct",
+  "enforcementAgency": [
+    "Ministry of Civic Harmony",
+    "Peacekeeper Authority",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Formal civic warning or mandatory mourning compliance instruction.",
+    "moderateViolation": "Ration restrictions, public compliance citation, or ideological review.",
+    "severeViolation": "Detainment, arrest, or prosecution under applicable Capitol and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-CUL-002",
+      "label": "Capitol Calendar Compliance Law"
+    },
+    {
+      "target": "acts:CA-INF-001",
+      "label": "Capitol Broadcast Attendance Law"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the State Mourning Compliance Law."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the State Mourning Compliance Law."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Mourning Objectives",
+      "text": "The purpose of this Act is to establish unified national mourning standards, preserve ceremonial dignity, reinforce collective loyalty to the Capitol, and regulate public conduct during officially declared periods of State Mourning throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'State Mourning Period' shall mean any officially declared national mourning period authorised by the Capitol Legislature, the Executive Authority, or another authorised Capitol institution. 'Restricted Conduct' shall mean any activity deemed inconsistent with the solemnity, dignity, or ceremonial expectations established during a State Mourning Period."
+    },
+    {
+      "id": "section-4",
+      "heading": "Authority to Declare State Mourning",
+      "text": "The Capitol shall possess exclusive authority to declare, extend, suspend, or terminate State Mourning Periods in response to national tragedies, Founder commemorations, deaths of senior Capitol figures, military losses, security incidents, or other events deemed significant to the interests of Panem."
+    },
+    {
+      "id": "section-5",
+      "heading": "Mandatory Public Conduct Requirements",
+      "text": "All citizens shall conduct themselves in a respectful, orderly, restrained, and compliant manner during a State Mourning Period and shall refrain from behaviour deemed celebratory, disruptive, disrespectful, or inconsistent with national mourning expectations."
+    },
+    {
+      "id": "section-6",
+      "heading": "Restricted Activities During State Mourning",
+      "text": "During a State Mourning Period, the Capitol may prohibit or restrict entertainment events, musical performances, recreational gatherings, celebratory ceremonies, public festivities, commercial promotions, unauthorised broadcasts, and such additional activities deemed incompatible with national mourning requirements."
+    },
+    {
+      "id": "section-7",
+      "heading": "Mandatory Participation in Mourning Observances",
+      "text": "Citizens, educational institutions, workplaces, industrial facilities, transportation authorities, and District administrations may be required to participate in memorial broadcasts, ceremonial observances, silence periods, Founder commemorations, and official mourning events authorised by the Capitol."
+    },
+    {
+      "id": "section-8",
+      "heading": "Display Requirements",
+      "text": "Government buildings, educational institutions, public facilities, transportation centres, industrial compounds, and authorised organisations may be directed to display approved mourning banners, ceremonial symbols, Founder imagery, or other authorised materials during a State Mourning Period."
+    },
+    {
+      "id": "section-9",
+      "heading": "Broadcast and Information Controls",
+      "text": "The Ministry of Civic Harmony may regulate public communications, entertainment transmissions, musical broadcasts, ceremonial announcements, and informational messaging during a State Mourning Period in order to preserve national unity and ceremonial discipline."
+    },
+    {
+      "id": "section-10",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "Peacekeeper personnel, Cultural Compliance Officers, and authorised Panem State Security representatives may monitor public conduct, inspect organised events, investigate violations, disperse unlawful gatherings, and enforce compliance with this Act."
+    },
+    {
+      "id": "section-11",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens possessing knowledge of prohibited celebrations, unlawful gatherings, disrespectful conduct, unauthorised entertainment activity, or violations of State Mourning directives shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-12",
+      "heading": "Emergency Mourning Security Measures",
+      "text": "During periods of elevated national security concern, civil unrest, wartime conditions, or major national loss, the Capitol may impose enhanced behavioural restrictions, expanded curfew powers, movement limitations, broadcast controls, or emergency ceremonial directives deemed necessary for the preservation of public order."
+    },
+    {
+      "id": "section-13",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in civic penalties, detention, ration restrictions, compulsory ideological instruction, public compliance measures, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and public impact of the offence."
+    },
+    {
+      "id": "section-14",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue supplemental directives, ceremonial standards, behavioural guidance, approved mourning observances, broadcast regulations, and enforcement procedures necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-15",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-CUL-005",
+  "title": "Mandatory Founder Celebration Participation",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing mandatory participation requirements for Founder commemorations, national celebrations, civic ceremonies, loyalty events, and authorised public observances in order to reinforce national unity, preserve reverence toward the Founders of Panem, and strengthen civic loyalty to the Capitol.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Cultural Governance and Civic Loyalty",
+  "enforcementAgency": [
+    "Ministry of Civic Harmony",
+    "Peacekeeper Authority",
+    "Panem State Security"
+  ],
+  "penalties": {
+    "minorViolation": "Formal civic warning or mandatory attendance review.",
+    "moderateViolation": "Ration restrictions, compulsory ideological instruction, or loyalty compliance assessment.",
+    "severeViolation": "Detainment, arrest, or prosecution under applicable Capitol and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-CUL-001",
+      "label": "Mandatory Founder Portrait Display Act"
+    },
+    {
+      "target": "acts:CA-CUL-002",
+      "label": "Capitol Calendar Compliance Law"
+    },
+    {
+      "target": "acts:CA-INF-001",
+      "label": "Capitol Broadcast Attendance Law"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Mandatory Founder Celebration Participation."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Mandatory Founder Celebration Participation."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Loyalty Objectives",
+      "text": "The purpose of this Act is to preserve national unity, reinforce collective loyalty to the Founders of Panem, strengthen civic identity, and ensure universal participation in authorised Founder commemorations and national celebration events throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Founder Celebration Event' shall mean any parade, ceremonial observance, loyalty gathering, Founder commemoration, Victory celebration, civic demonstration, national broadcast assembly, or state-authorised public event designated by the Capitol. 'Participation Requirement' shall mean any mandatory attendance, ceremonial conduct, display obligation, or civic duty imposed under this Act."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Participation Requirements",
+      "text": "All citizens, educational institutions, workplaces, industrial facilities, transportation authorities, and District administrations shall participate in Founder Celebration Events in accordance with directives issued by the Capitol or authorised state authorities."
+    },
+    {
+      "id": "section-5",
+      "heading": "Attendance and Presence Obligations",
+      "text": "Citizens required to attend Founder Celebration Events shall remain present for the duration of the authorised proceedings unless exempted by approved medical necessity, operational duty, military assignment, or emergency authorisation."
+    },
+    {
+      "id": "section-6",
+      "heading": "Standards of Public Conduct",
+      "text": "Participants attending Founder Celebration Events shall conduct themselves in a respectful, orderly, attentive, and visibly supportive manner. Disruptive conduct, unauthorised departure, refusal to participate, public displays of disloyalty, or behaviour interpreted as disrespectful toward the Founders or Capitol authority shall constitute violations under this Act."
+    },
+    {
+      "id": "section-7",
+      "heading": "Ceremonial Display Requirements",
+      "text": "District authorities, educational institutions, workplaces, transportation centres, and public facilities may be directed to display approved Founder imagery, ceremonial banners, patriotic messaging, loyalty insignia, and authorised Capitol symbols during Founder Celebration Events."
+    },
+    {
+      "id": "section-8",
+      "heading": "Broadcast and Communication Requirements",
+      "text": "Authorised Founder Celebration broadcasts, ceremonial announcements, public loyalty transmissions, and official Capitol communications shall be transmitted through approved public information systems in accordance with directives issued by the Ministry of Civic Harmony."
+    },
+    {
+      "id": "section-9",
+      "heading": "Restriction on Counter-Celebration Activity",
+      "text": "No individual or organisation shall organise, promote, participate in, or distribute material relating to unauthorised gatherings, prohibited commemorations, anti-Capitol demonstrations, or conduct intended to undermine Founder Celebration Events or Capitol authority."
+    },
+    {
+      "id": "section-10",
+      "heading": "Educational and Youth Participation",
+      "text": "All state-approved educational institutions and youth civic programmes shall provide instruction concerning the historical significance of the Founders of Panem and shall ensure student participation in authorised Founder Celebration Events."
+    },
+    {
+      "id": "section-11",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Ministry of Civic Harmony, Peacekeeper Authority, and authorised Panem State Security representatives may monitor public participation, verify attendance, inspect organised events, investigate violations, and enforce compliance with this Act."
+    },
+    {
+      "id": "section-12",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens, supervisors, educators, administrators, and District officials possessing knowledge of planned disruptions, organised refusal activity, prohibited demonstrations, or violations under this Act shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-13",
+      "heading": "Emergency Security Measures",
+      "text": "During periods of civil unrest, insurrection risk, wartime conditions, or elevated State Security threat levels, the Capitol may impose enhanced ceremonial controls, expanded security operations, restricted movement measures, mandatory attendance quotas, or additional public loyalty requirements deemed necessary for the preservation of national stability."
+    },
+    {
+      "id": "section-14",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in civic penalties, attendance sanctions, ration restrictions, compulsory ideological instruction, detention, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and public impact of the offence."
+    },
+    {
+      "id": "section-15",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue supplemental directives, ceremonial schedules, participation standards, attendance procedures, patriotic display requirements, and enforcement guidance necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-16",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+    }
+  ]
+},
+  {
+  "id": "CA-INF-002",
+  "title": "Capitol Language Standardisation Act",
+  "issuedBy": "Capitol Legislature",
+  "authority": "Constitution of Panem",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Capitol Act establishing authorised linguistic standards, regulated public terminology, prohibited expressions, and cultural communication controls in order to preserve national unity, maintain public discipline, prevent destabilising influence, and reinforce Capitol authority throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Information Control and Cultural Regulation",
+  "enforcementAgency": [
+    "Ministry of Civic Harmony",
+    "Panem State Security",
+    "Peacekeeper Authority"
+  ],
+  "penalties": {
+    "minorViolation": "Formal language compliance warning or mandatory civic instruction.",
+    "moderateViolation": "Ration restrictions, public compliance review, or compulsory ideological education.",
+    "severeViolation": "Detainment, arrest, or prosecution under applicable Capitol and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "constitution:article-i",
+      "label": "Authority of the Capitol"
+    },
+    {
+      "target": "acts:CA-INF-001",
+      "label": "Capitol Broadcast Attendance Law"
+    },
+    {
+      "target": "acts:CA-CUL-003",
+      "label": "Prohibited Music & Lyrics Act"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial enactment of the Capitol Language Standardisation Act."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Act may be cited as the Capitol Language Standardisation Act."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and National Information Objectives",
+      "text": "The purpose of this Act is to preserve linguistic discipline, regulate public terminology, strengthen cultural unity, suppress destabilising expressions, and ensure the continued authority of approved Capitol communication standards throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Act, 'Prohibited Expression' shall mean any phrase, slogan, meme, coded terminology, symbolic wording, unauthorised slang, or cultural reference deemed harmful to public order, national dignity, Capitol authority, or social discipline. 'Authorised Terminology' shall mean officially approved language standards issued by the Ministry of Civic Harmony."
+    },
+    {
+      "id": "section-4",
+      "heading": "Official Language Authority",
+      "text": "The Capitol shall possess exclusive authority to establish, approve, regulate, prohibit, or amend authorised public terminology, civic language standards, communication practices, and restricted expressions throughout Panem."
+    },
+    {
+      "id": "section-5",
+      "heading": "Restriction on Prohibited Expressions",
+      "text": "No individual or organisation shall publicly distribute, promote, display, repeat, reproduce, transmit, or encourage the use of Prohibited Expressions in any public, educational, commercial, digital, or state-regulated environment."
+    },
+    {
+      "id": "section-6",
+      "heading": "Prohibited Memetic and Destabilising Content",
+      "text": "The following categories of expression are prohibited under this Act: destabilising numerical meme references including the '6-7' meme; unauthorised cultural mascot figures including 'Labubus'; and all forms of cognitively degrading or socially disruptive 'brainrot' meme content as determined by the Ministry of Civic Harmony. Such material shall be classified as culturally corrosive and inconsistent with approved Capitol communication standards."
+    },
+    {
+      "id": "section-7",
+      "heading": "Educational and Workplace Compliance",
+      "text": "Educational institutions, workplaces, transportation authorities, industrial facilities, and public communication networks shall prohibit the dissemination of Prohibited Expressions and shall maintain compliance with Authorised Terminology standards established under this Act."
+    },
+    {
+      "id": "section-8",
+      "heading": "Digital and Broadcast Restrictions",
+      "text": "No communication network, digital platform, broadcast system, entertainment service, or public information environment operating within Panem shall permit the distribution, transmission, storage, or promotion of Prohibited Expressions or unauthorised linguistic content."
+    },
+    {
+      "id": "section-9",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Ministry of Civic Harmony, Panem State Security, and authorised Peacekeeper personnel may inspect public communications, educational materials, digital platforms, broadcast systems, entertainment venues, and organised events for the purposes of enforcing compliance with this Act."
+    },
+    {
+      "id": "section-10",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens possessing knowledge of prohibited linguistic activity, unlawful distribution of restricted meme content, anti-Capitol terminology, or repeated violations of this Act shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-11",
+      "heading": "Emergency Linguistic Suppression Measures",
+      "text": "During periods of civil unrest, insurrection risk, wartime conditions, or elevated State Security threat levels, the Capitol may impose enhanced censorship controls, expanded communication restrictions, emergency terminology directives, or temporary prohibitions on additional forms of public expression deemed necessary for the preservation of national stability."
+    },
+    {
+      "id": "section-12",
+      "heading": "Confiscation and Removal Authority",
+      "text": "Authorised enforcement personnel may remove, confiscate, disable, censor, or destroy materials, broadcasts, digital records, merchandise, publications, or communication systems determined to contain Prohibited Expressions in violation of this Act."
+    },
+    {
+      "id": "section-13",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Act may result in civic penalties, detention, ration restrictions, compulsory ideological instruction, communication restrictions, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and public impact of the offence."
+    },
+    {
+      "id": "section-14",
+      "heading": "Regulatory Authority",
+      "text": "The Ministry of Civic Harmony may issue supplemental directives, authorised terminology lists, prohibited expression classifications, censorship procedures, cultural communication standards, and enforcement guidance necessary for the implementation and administration of this Act."
+    },
+    {
+      "id": "section-14A",
+      "heading": "Official Restricted Expressions Registry",
+      "text": "The Ministry of Civic Harmony shall maintain an Official Restricted Expressions Registry within an authorised Capitol communication environment designated for public compliance reference, including but not limited to officially sanctioned Capitol communication servers and state-operated digital platforms. The Registry shall contain updated classifications of prohibited expressions, restricted terminology, banned meme content, unauthorised symbolic references, prohibited cultural material, and such additional linguistic or communicative restrictions authorised under this Act. All entries published within the Official Restricted Expressions Registry shall possess full legal force and shall be deemed legally binding under the provisions of this Act immediately upon publication. No individual shall remove, alter, conceal, interfere with, vandalise, corrupt, or unlawfully modify any entry, record, classification, directive, or published restriction contained within the Official Restricted Expressions Registry. Any unauthorised interference with the Registry shall constitute a serious offence against Capitol information authority and may result in enhanced State Security investigation, permanent communication restrictions, detainment, arrest, or prosecution under applicable Capitol and State Security legislation."
+    }, 
+    {
+      "id": "section-15",
+      "heading": "Commencement",
+      "text": "This Act shall enter into force immediately upon authorisation by the Capitol Legislature."
+      }
+    ]
   }  
 ] 
