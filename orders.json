@@ -98,5 +98,248 @@
         "text": "Peacekeepers are the enforcement arm of the Capitol. Through discipline, authority, and unwavering execution of duty, order is preserved. Compliance is mandatory. Stability is absolute."
       }
     ]
-  }
-]
+  },
+  {
+  "id": "PO-SEC-003",
+  "title": "Curfew Silence Enforcement Order",
+  "issuedBy": "Peacekeeper High Command",
+  "authority": "Capitol Civic Code for District Administration and Citizen Conduct",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Peacekeeper Operational Order establishing mandatory curfew silence requirements, restricted nighttime activity controls, and public conduct regulations during designated curfew periods in order to preserve public order, strengthen Peacekeeper operational authority, and support national security enforcement throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Public Order and Security Enforcement",
+  "enforcementAgency": [
+    "Peacekeeper Authority",
+    "District Security Commands",
+    "Panem State Security"
+  ],
+  "enablingActId": "CA-001",
+  "penalties": {
+    "minorViolation": "Verbal warning, curfew citation, or temporary detention for identity verification.",
+    "moderateViolation": "Ration restrictions, mandatory compliance review, or enforced curfew supervision.",
+    "severeViolation": "Arrest, detainment, or prosecution under applicable public order or State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "acts:CA-INF-001",
+      "label": "Capitol Broadcast Attendance Law"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial issuance of the Curfew Silence Enforcement Order."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Order may be cited as the Curfew Silence Enforcement Order."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and Security Objectives",
+      "text": "The purpose of this Order is to establish controlled nighttime security conditions, preserve public order during curfew periods, reduce unlawful assembly risks, support Peacekeeper operational effectiveness, and reinforce visible Capitol authority throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Order, 'Curfew Period' shall mean any officially designated period of restricted civilian movement or activity authorised by the Capitol or Peacekeeper High Command. 'Restricted Noise Activity' shall include shouting, amplified sound, unauthorised music, public disturbances, industrial noise exceeding authorised limits, or any conduct deemed disruptive to public order enforcement operations."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Curfew Compliance",
+      "text": "All citizens shall remain within authorised residential premises or approved operational locations during designated Curfew Periods unless specifically exempted by military authority, emergency necessity, employment authorisation, or official movement clearance."
+    },
+    {
+      "id": "section-5",
+      "heading": "Silence Enforcement Requirements",
+      "text": "During Curfew Periods, citizens shall maintain quiet and orderly conduct. Restricted Noise Activity within public streets, residential sectors, transportation routes, industrial compounds, or state-controlled facilities shall be prohibited unless expressly authorised by Peacekeeper command authority."
+    },
+    {
+      "id": "section-6",
+      "heading": "Public Street Restrictions",
+      "text": "No individual or group shall loiter, gather, assemble, travel without authorisation, or remain present within public streets, alleyways, transportation corridors, rail terminals, or designated security zones during Curfew Periods."
+    },
+    {
+      "id": "section-7",
+      "heading": "Lighting and Visibility Controls",
+      "text": "District authorities and residential occupants may be directed to comply with mandatory lighting restrictions, blackout directives, or visibility reduction measures during designated security operations or emergency enforcement conditions."
+    },
+    {
+      "id": "section-8",
+      "heading": "Peacekeeper Authority During Curfew Operations",
+      "text": "Peacekeeper personnel shall possess authority to stop, question, detain, search, identify, disperse, or remove individuals suspected of violating this Order or otherwise interfering with nighttime public order operations."
+    },
+    {
+      "id": "section-9",
+      "heading": "Operational Broadcast Compliance",
+      "text": "Citizens shall comply immediately with all curfew sirens, public security announcements, emergency broadcasts, loudspeaker instructions, or operational directives issued during Curfew Periods."
+    },
+    {
+      "id": "section-10",
+      "heading": "Suspicious Activity Reporting Obligations",
+      "text": "Citizens possessing knowledge of unauthorised movement, illegal gatherings, curfew violations, sabotage activity, or suspicious nighttime conduct shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-11",
+      "heading": "Inspection and Enforcement Operations",
+      "text": "The Peacekeeper Authority and authorised State Security personnel may establish checkpoints, conduct patrol operations, enforce movement controls, verify identification, inspect premises, and implement temporary operational security zones for the purposes of enforcing this Order."
+    },
+    {
+      "id": "section-12",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Order may result in curfew sanctions, detention, ration restrictions, compulsory civic compliance review, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the violation."
+    },
+    {
+      "id": "section-13",
+      "heading": "Emergency Security Escalation",
+      "text": "During periods of civil unrest, insurrection risk, sabotage operations, wartime conditions, or declared emergency status, Peacekeeper High Command may impose enhanced curfew measures, extended silence enforcement periods, movement prohibitions, or district-wide lockdown directives."
+    },
+    {
+      "id": "section-14",
+      "heading": "Commencement",
+      "text": "This Order shall enter into force immediately upon authorisation by Peacekeeper High Command."
+    }
+  ]
+},
+  {
+  "id": "PO-CIV-002",
+  "title": "Peacekeeper Eye Contact Restriction",
+  "issuedBy": "Peacekeeper High Command",
+  "authority": "Capitol Civic Code for District Administration and Citizen Conduct",
+  "jurisdiction": "Panem",
+  "version": "1.0",
+  "stageDate": "2026-05-10",
+  "summary": "A Peacekeeper Operational Order establishing mandatory civilian conduct standards during interactions with Peacekeeper personnel in order to preserve operational authority, maintain public order, reinforce lawful command presence, and reduce hostile or disruptive conduct toward authorised security personnel throughout Panem.",
+  "classification": "PUBLIC",
+  "status": "ACTIVE",
+  "category": "Civilian Conduct and Peacekeeper Authority",
+  "enforcementAgency": [
+    "Peacekeeper Authority",
+    "District Security Commands",
+    "Panem State Security"
+  ],
+  "enablingActId": "CA-001",
+  "penalties": {
+    "minorViolation": "Verbal warning, public conduct citation, or temporary detention for identification verification.",
+    "moderateViolation": "Ration restrictions, compulsory civic compliance instruction, or formal loyalty review.",
+    "severeViolation": "Arrest, detainment, or prosecution under applicable public order and State Security legislation."
+  },
+  "crossReferences": [
+    {
+      "target": "acts:CA-001",
+      "label": "Capitol Civic Code for District Administration and Citizen Conduct"
+    },
+    {
+      "target": "acts:CA-ORD-002",
+      "label": "Unauthorised Gathering Prevention Act"
+    },
+    {
+      "target": "orders:PO-SEC-003",
+      "label": "Curfew Silence Enforcement Order"
+    },
+    {
+      "target": "acts:CA-SEC-001",
+      "label": "Capitol Secrets and State Security Act"
+    }
+  ],
+  "history": [
+    {
+      "version": "1.0",
+      "date": "2026-05-10",
+      "note": "Initial issuance of the Peacekeeper Eye Contact Restriction."
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "heading": "Short Title",
+      "text": "This Order may be cited as the Peacekeeper Eye Contact Restriction."
+    },
+    {
+      "id": "section-2",
+      "heading": "Purpose and Operational Objectives",
+      "text": "The purpose of this Order is to establish controlled standards of civilian interaction with Peacekeeper personnel, reinforce operational authority, reduce confrontational behaviour, support public order enforcement, and preserve visible respect toward authorised security forces throughout Panem."
+    },
+    {
+      "id": "section-3",
+      "heading": "Definitions",
+      "text": "For the purposes of this Order, 'Restricted Conduct' shall mean any behaviour reasonably interpreted as hostile, confrontational, obstructive, intimidating, disrespectful, or disruptive toward authorised Peacekeeper personnel. 'Direct Confrontational Eye Contact' shall mean prolonged or aggressive visual engagement reasonably interpreted by Peacekeeper personnel as threatening, provocative, or resistant to lawful authority."
+    },
+    {
+      "id": "section-4",
+      "heading": "Mandatory Civilian Conduct Standards",
+      "text": "All civilians interacting with Peacekeeper personnel shall conduct themselves in a respectful, orderly, compliant, and non-confrontational manner at all times."
+    },
+    {
+      "id": "section-5",
+      "heading": "Restriction on Confrontational Behaviour",
+      "text": "No civilian shall engage in Direct Confrontational Eye Contact, aggressive gestures, obstructive movement, hostile posture, verbal intimidation, unauthorised recording activity, or conduct reasonably interpreted as interference with Peacekeeper authority or operational duties."
+    },
+    {
+      "id": "section-6",
+      "heading": "Compliance During Inspections and Encounters",
+      "text": "Citizens subjected to inspections, questioning, checkpoint procedures, identity verification, or lawful Peacekeeper instruction shall remain stationary when directed, maintain visible hands when requested, and comply immediately with all authorised commands."
+    },
+    {
+      "id": "section-7",
+      "heading": "Public Passage and Operational Priority",
+      "text": "Civilians shall yield unobstructed passage to Peacekeeper patrols, emergency response units, security convoys, and authorised operational personnel engaged in official duties."
+    },
+    {
+      "id": "section-8",
+      "heading": "Authority to Intervene and Detain",
+      "text": "Peacekeeper personnel may stop, question, search, identify, disperse, or temporarily detain individuals reasonably suspected of violating this Order or otherwise interfering with public order or operational security."
+    },
+    {
+      "id": "section-9",
+      "heading": "Enhanced Enforcement During Security Operations",
+      "text": "During periods of civil unrest, insurrection risk, emergency enforcement operations, wartime conditions, or elevated State Security threat levels, Peacekeeper High Command may impose enhanced civilian conduct controls and expanded enforcement measures under this Order."
+    },
+    {
+      "id": "section-10",
+      "heading": "Educational and Civic Instruction",
+      "text": "Educational institutions, workplaces, transportation authorities, and District administrations may provide mandatory civic instruction concerning lawful interaction standards, Peacekeeper authority, and civilian compliance obligations established under this Order."
+    },
+    {
+      "id": "section-11",
+      "heading": "Mandatory Reporting Obligations",
+      "text": "Citizens possessing knowledge of hostile conduct toward Peacekeeper personnel, organised resistance activity, or repeated violations of this Order shall report such information to the appropriate authorities without unreasonable delay."
+    },
+    {
+      "id": "section-12",
+      "heading": "Inspection and Enforcement Authority",
+      "text": "The Peacekeeper Authority and authorised Panem State Security representatives shall possess authority to enforce this Order, conduct investigations, issue compliance directives, review incident reports, and implement operational measures necessary for the preservation of public order."
+    },
+    {
+      "id": "section-13",
+      "heading": "Enforcement and Penalties",
+      "text": "Violations of this Order may result in public conduct sanctions, detention, ration restrictions, compulsory ideological instruction, civic penalties, arrest, or prosecution under applicable Capitol and State Security legislation depending upon the severity, intent, and operational impact of the offence."
+    },
+    {
+      "id": "section-14",
+      "heading": "Regulatory Authority",
+      "text": "Peacekeeper High Command may issue supplemental directives, civilian conduct standards, checkpoint procedures, inspection guidance, and operational enforcement regulations necessary for the implementation and administration of this Order."
+    },
+    {
+      "id": "section-15",
+      "heading": "Commencement",
+      "text": "This Order shall enter into force immediately upon authorisation by Peacekeeper High Command."
+      }
+    ]
+  }  
+] 
